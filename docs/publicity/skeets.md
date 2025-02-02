@@ -1,4 +1,10 @@
-# Tweets
+# Skeets
+
+## 2025-02-02
+
+```text
+OSCU's next event: Friday February 14th 16:15-17:00 at Puben, S:t Olofsgatan 9: informal meeting to vote for the OSC Uppsala logo
+```
 
 ## 2025-01-10
 
