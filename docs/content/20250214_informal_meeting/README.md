@@ -23,4 +23,4 @@ Number|Image                                               |Description         
 4     |![Possible logo](oscu_logo_yellow_orange.png)       |A mix of Sweden and Netherlands, with Netherlands being more prominent         |I
 5     |![Possible logo](oscu_logo_yellow_yellow.png)       |A mix of Sweden and Netherlands, with Sweden being more prominent              |
 6     |![Possible logo](oscu_logo_swedish_flag.png)        |Used the exact color as the Swedish flag                                       |
-7     |![Possible logo](oscu_logo_swedish_flag_uppsala.png)|Used Uppsala university's red as a prominent color                             |II
+7     |![Possible logo](oscu_logo_swedish_flag_uppsala.png)|Used Uppsala university's red as a prominent color                             |III
