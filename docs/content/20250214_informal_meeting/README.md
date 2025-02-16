@@ -37,7 +37,7 @@ Number 7 has become the new OSC Uppsala logo:
 
 With these colors:
 
-Color |Hexidecimal|Decimal
+Color |Hexadecimal|Decimal
 ------|-----------|-----------
 Blue  |`02225e`   |`2,34,94`
 Red   |`bd2b31`   |`189,43,49`
