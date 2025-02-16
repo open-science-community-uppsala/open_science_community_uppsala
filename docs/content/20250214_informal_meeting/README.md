@@ -19,12 +19,12 @@ A candidate is:
 
 Number|Image                                               |Description                                                                    |Votes
 ------|----------------------------------------------------|-------------------------------------------------------------------------------|-----
-1     |![Invalid logo](oscu_logo.png)                      |This is a non-candidate, as it is already the logo of Utrecht (the Netherlands)|
-2     |![Possible logo](oscu_logo_orange_orange.png)       |The orange is a symbol for the country where Open Science is even bigger       |
-3     |![Possible logo](oscu_logo_orange_yellow.png)       |Yellow is a symbol for Sweden: the country OSCU is in                          |
+1     |![Invalid logo](oscu_logo.png)                      |This is a non-candidate, as it is already the logo of Utrecht (the Netherlands)|.
+2     |![Possible logo](oscu_logo_orange_orange.png)       |The orange is a symbol for the country where Open Science is even bigger       |.
+3     |![Possible logo](oscu_logo_orange_yellow.png)       |Yellow is a symbol for Sweden: the country OSCU is in                          |.
 4     |![Possible logo](oscu_logo_yellow_orange.png)       |A mix of Sweden and Netherlands, with Netherlands being more prominent         |I
-5     |![Possible logo](oscu_logo_yellow_yellow.png)       |A mix of Sweden and Netherlands, with Sweden being more prominent              |
-6     |![Possible logo](oscu_logo_swedish_flag.png)        |Used the exact color as the Swedish flag                                       |
+5     |![Possible logo](oscu_logo_yellow_yellow.png)       |A mix of Sweden and Netherlands, with Sweden being more prominent              |.
+6     |![Possible logo](oscu_logo_swedish_flag.png)        |Used the exact color as the Swedish flag                                       |.
 7     |![Possible logo](oscu_logo_swedish_flag_uppsala.png)|Used Uppsala university's red as a prominent color                             |III
 
 <!-- markdownlint-enable MD013 -->
