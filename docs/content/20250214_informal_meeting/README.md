@@ -24,3 +24,13 @@ Number|Image                                               |Description         
 5     |![Possible logo](oscu_logo_yellow_yellow.png)       |A mix of Sweden and Netherlands, with Sweden being more prominent              |
 6     |![Possible logo](oscu_logo_swedish_flag.png)        |Used the exact color as the Swedish flag                                       |
 7     |![Possible logo](oscu_logo_swedish_flag_uppsala.png)|Used Uppsala university's red as a prominent color                             |III
+
+Decision:
+
+Number 7 has become the new OSC Uppsala logo:
+
+![OSC Uppsala logo](oscu_logo_swedish_flag_uppsala.png)
+
+With RGB values:
+- Decimal: 
+- Hexidecimal:
