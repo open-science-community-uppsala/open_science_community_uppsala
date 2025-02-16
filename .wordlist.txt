@@ -129,4 +129,7 @@ OSCU's
 Bluesky
 Skeet
 Skeets
+freelists
+oscu
+skeets
 
