@@ -8,7 +8,7 @@ This table will change as time passes by.
 Who   |Date      |Day in month       |What
 ------|----------|-------------------|----------------------------------
 Richel|2023-06-01|First workday      |Send out [emaillist text](newsletter_archive.md)
-Richel|2023-06-02|Friday before talk |[Tweet](tweets.md) about upcoming event
+Richel|2023-06-02|Friday before talk |[Skeet](skeets.md) about upcoming event
 Emmi  |2023-06-05|Monday before talk |[LinkedIn post](linked_in_posts.md) about upcoming event
 Anna  |2023-06-05|Monday before talk |Facebook post about upcoming event
 Anna  |2023-06-05|Monday before talk |Retweet upcoming event from @AnnaHallberg3
@@ -17,7 +17,7 @@ Börje |2023-06-05|Monday before talk |Retweet upcoming event @UppsalaUniLib
 Richel|2023-06-05|Monday before talk |Retweet upcoming event @rjcbilderbeek
 Richel|2023-06-10|After talk         |Email recent speaker for slides
 Richel|2023-06-10|After talk         |Email next speaker for status
-Richel|2023-06-16|Friday after talk  |[Tweet](tweets.md) link to slides of past event
+Richel|2023-06-16|Friday after talk  |[Skeet](skeets.md) link to slides of past event
 Emmi  |2023-06-16|Friday after talk  |[LinkedIn post](linked_in_posts.md) to slides of past event
 Anna  |2023-06-16|Friday after talk  |Facebook post to slides of past event
 Börje |2023-06-16|Friday after talk  |Mastodon post to slides of past event
