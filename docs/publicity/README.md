@@ -96,7 +96,7 @@ Friday before talk |Richel|[Skeets](skeets.md) about upcoming event
 ?Monday before talk|Richel|Retweet upcoming event at @rjbilderbeek
 After talk         |Richel|Email recent speaker for slides
 After talk         |Richel|Email next speaker for status
-Friday after talk  |Richel|[Tweet](tweets.md) link to slides of past event
+Friday after talk  |Richel|[Skeet](skeets.md) link to slides of past event
 Friday after talk  |Emmi  |LinkedIn post to slides of past event
 ?Friday after talk |?Anna |Facebook post to slides of past event
 ?Friday after talk |?Börje|Mastodon post to slides of past event

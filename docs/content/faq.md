@@ -164,7 +164,7 @@ See [the newsletter archive](../publicity/newsletter_archive.md) for previous ne
 - Sent at the first day of each month, for months that have an activity
 - Short
 
-See [the tweets archive](../publicity/tweets.md) for previous tweets.
+See [the skeets archive](../publicity/skeets.md) for previous skeets.
 
 ## Information for speakers
 
