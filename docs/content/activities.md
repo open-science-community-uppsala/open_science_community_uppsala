@@ -20,7 +20,7 @@ When                      | Where                  |What
 2025-12-12 16:15-17:00    |?USB [1], Konferensrummet|Empty slot
 
 
-- See ['events'](events.md) for our past activities.
+- See ['past events'](past_events.md) for our past activities.
 - [1] [Uppsala Stadsbibliotek](https://bibliotekuppsala.se/web/arena/stadsbiblioteket#/), Svartbäcksgatan 17, 753 75 Uppsala,
   see ['where'](where.md) for a map
 - [2] [Puben](https://pubenuppsala.se/), S:t Olofsgatan 9, 753 21, Uppsala

@@ -87,7 +87,7 @@ This is the general idea. This table is stable in time.
 Day in month       |Who   |What
 -------------------|------|----------------------------------
 First workday      |Richel|Send out [emaillist text](newsletter_archive.md)
-Friday before talk |Richel|[Tweet](tweets.md) about upcoming event
+Friday before talk |Richel|[Skeets](skeets.md) about upcoming event
 ?Monday before talk|Emmi  |LinkedIn post about upcoming event
 ?Monday before talk|?Anna |Facebook post about upcoming event
 ?Monday before talk|?Anna |Retweet upcoming event at @AnnaHallberg3
