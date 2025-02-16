@@ -15,6 +15,8 @@ A candidate is:
 - has the same blue color in the letters `OSC`
 - the bottom left person-symbol has the same color as the last letter
 
+<!-- markdownlint-disable MD013 --><!-- Tables cannot be split up over lines, hence will break 80 characters per line -->
+
 Number|Image                                               |Description                                                                    |Votes
 ------|----------------------------------------------------|-------------------------------------------------------------------------------|-----
 1     |![Invalid logo](oscu_logo.png)                      |This is a non-candidate, as it is already the logo of Utrecht (the Netherlands)|
@@ -25,6 +27,8 @@ Number|Image                                               |Description         
 6     |![Possible logo](oscu_logo_swedish_flag.png)        |Used the exact color as the Swedish flag                                       |
 7     |![Possible logo](oscu_logo_swedish_flag_uppsala.png)|Used Uppsala university's red as a prominent color                             |III
 
+<!-- markdownlint-enable MD013 -->
+
 Decision:
 
 Number 7 has become the new OSC Uppsala logo:
@@ -32,5 +36,6 @@ Number 7 has become the new OSC Uppsala logo:
 ![OSC Uppsala logo](oscu_logo_swedish_flag_uppsala.png)
 
 With RGB values:
-- Decimal: 
+
+- Decimal:
 - Hexidecimal:

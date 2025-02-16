@@ -4,7 +4,7 @@
 
 ## 2025-02-02
 
-oscu@freelists.org
+<oscu@freelists.org>
 
 ```text
 February OSCU monthly newsletter
