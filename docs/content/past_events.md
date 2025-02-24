@@ -31,6 +31,7 @@ When                      | Where              |What
 2024-10-18 16:15-17:00    |USB [1], Studion    |[Christopher Erdmann, Open science at SciLifeLab - the infrastructure unit's role in advancing open science in Sweden and beyond](20241018_christopher_erdmann/README.md)
 2024-11-08 16:15-17:00    |USB [1], Studion        |[Richel Bilderbeek, Open Science and humans being scientists](20241108_richel_bilderbeek/README.md)
 2025-01-10 16:15-17:00    |USB [1], Konferensrummet|[Ismail Elouafiq: 'Beyond the lab: spreading the joy of figuring things out'](20250110_ismail_elouafiq/README.md)
+2025-02-14 16:15-17:00    |Puben [2]               |[Informal meeting with logo discussion](20250214_informal_meeting/README.md)
 
 * [1] USB: [Uppsala Stadsbibliotek](https://bibliotekuppsala.se/web/arena/stadsbiblioteket#/),
    Svartbäcksgatan 17, 753 75 Uppsala
