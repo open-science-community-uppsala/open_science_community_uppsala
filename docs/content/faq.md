@@ -223,6 +223,11 @@ Ordered alphabetically on first name:
   [0000-0002-9274-6998](https://orcid.org/0000-0002-9274-6998)
   ![Twitter logo](pics/twitter_logo_19_x_16.png)
   [@BDahren](https://twitter.com/BDahren)
+- Johanna Söderström
+  ![ORCID logo](pics/ORCIDiD_icon16x16.png)
+  [0000-0003-3210-8609](https://orcid.org/0000-0003-3210-8609)
+  ![Twitter logo](pics/twitter_logo_19_x_16.png)
+  [@js_polsci](https://x.com/js_polsci)
 - Jonas Söderberg
   ![ORCID logo](pics/ORCIDiD_icon16x16.png)
   [0000-0003-2722-7590](https://orcid.org/0000-0003-2722-7590)
@@ -231,8 +236,8 @@ Ordered alphabetically on first name:
 - Richel Bilderbeek:
   ![ORCID logo](pics/ORCIDiD_icon16x16.png)
   [0000-0003-1107-7049](https://orcid.org/0000-0003-1107-7049)
-  ![Twitter logo](pics/twitter_logo_19_x_16.png)
-  [@richelbilderbeek](https://twitter.com/rjcbilderbeek)
+  ![Bluesky logo](pics/twitter_logo_19_x_16.png)
+  [@richelbilderbeek](https://bsky.app/profile/richelbilderbeek.bsky.social)
   ![GitHub logo](pics/github_logo_16_x_16.png)
   [richelbilderbeek](https://github.com/richelbilderbeek)
   ![OSF logo](pics/osf_logo_16_x_16.png)
@@ -246,10 +251,11 @@ Ordered alphabetically on first name:
 - Organizing activities: Richel
 - Finances: Richel
 - Maintaining this website: Richel
-- Facebook account: Anna
-- LinkedIn account: ?
-- Mastodon account: Börje
-- Twitter account: Richel
+- Social media:
+    - [Bluesky](https://bsky.app/profile/osc-uppsala.bsky.social): Richel
+    - Facebook: Anna
+    - LinkedIn: [Open position]
+    - Mastodon: Börje
 
 ### Who are the reserve team members?
 
