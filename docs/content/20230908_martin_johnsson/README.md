@@ -20,7 +20,7 @@ Where: Uppsala Stadsbibliotek, Mallassal
 
 ## Twitter
 
-### [2023-08-11](https://twitter.com/opensciupp/status/1690039181580382208)
+### 2023-08-11
 
 ```text
 OSU's next talk: Friday September 8th 16:15-17:00 at Stadsbiblioteket by Martin Johnsson, 'It’s about what kind of knowledge we want'. #OpenScienceTalks

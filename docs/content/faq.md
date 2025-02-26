@@ -216,19 +216,13 @@ Ordered alphabetically on first name:
 - Anna Hallberg
   ![ORCID logo](pics/ORCIDiD_icon16x16.png)
   [0000-0001-6219-1402](https://orcid.org/0000-0001-6219-1402)
-  ![Twitter logo](pics/twitter_logo_19_x_16.png)
-  [@AnnaHallberg3](https://twitter.com/AnnaHallberg3)
 - Börje Dahrén
   ![ORCID logo](pics/ORCIDiD_icon16x16.png)
   [0000-0002-9274-6998](https://orcid.org/0000-0002-9274-6998)
-  ![Twitter logo](pics/twitter_logo_19_x_16.png)
-  [@BDahren](https://twitter.com/BDahren)
 - Dennis Leenheer
 - Johanna Söderström
   ![ORCID logo](pics/ORCIDiD_icon16x16.png)
   [0000-0003-3210-8609](https://orcid.org/0000-0003-3210-8609)
-  ![Twitter logo](pics/twitter_logo_19_x_16.png)
-  [@js_polsci](https://x.com/js_polsci)
 - Jonas Söderberg
   ![ORCID logo](pics/ORCIDiD_icon16x16.png)
   [0000-0003-2722-7590](https://orcid.org/0000-0003-2722-7590)
