@@ -136,3 +136,6 @@ Leenheer
 Söderström
 js
 polsci
+Elin
+Kronander
+PLOS
