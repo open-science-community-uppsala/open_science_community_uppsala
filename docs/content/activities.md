@@ -3,6 +3,8 @@
 We usually have a speaker at the second Friday of the month,
 see schedule below.
 
+![Our next event](20250314_parul_tewatia/20250314_parul_tewatia.jpg)
+
 When                      | Where                   |What
 --------------------------|-------------------------|-----------------------------------------------------------------------------------------------------------------
 2025-03-14 16:15-17:00    |USB [1], Konferensrummet |[Parul Tewatia: 'FAIR Play: Mastering Metadata to Empower Early-Career Life Scientists'](20250314_parul_tewatia/README.md)
