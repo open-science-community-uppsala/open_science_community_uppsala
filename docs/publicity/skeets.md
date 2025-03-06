@@ -1,5 +1,11 @@
 # Skeets
 
+## 2025-03-05
+
+```text
+OSCU's next talk: Friday March 14th 16:15-17:00 at Stadsbiblioteket by Parul Tewatia: 'FAIR Play: Mastering Metadata to Empower Early-Career Life Scientists'.
+```
+
 ## 2025-02-02
 
 ```text

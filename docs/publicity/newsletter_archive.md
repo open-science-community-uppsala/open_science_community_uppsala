@@ -2,6 +2,33 @@
 
 <!-- markdownlint-disable MD013 -->
 
+## 2025-03-05
+
+<oscu@freelists.org>
+
+```text
+March OSCU monthly newsletter
+
+Dear Open Science Community Uppsala email list member,
+
+This is the monthly, short, OSCU newsletter.
+
+Open Science events in Uppsala this month:
+
+- Friday 2025-03-14 Parul Tewatia, 'FAIR Play: Mastering Metadata to Empower Early-Career Life Scientists'
+- Sundat 2025-03-16 Richèl Bilderbeek, 'Oppen Forsking: som vanligt forskning, men bättre' (in Swedish, for Science Fika)
+
+Open Science events in Uppsala next months:
+
+- Friday 2025-04-11 Joanna Sendecka, 'Fear-not Open Science - tackling challenges in sharing your research'
+- Friday 2025-05-09 Rafael Ahlskog, 'Working with pre-registrations when using register data'
+- Friday 2025-09-12 Jonas Söderberg, TBA
+
+Hope to see you at our events! As always, more info at the OSCU website at https://bit.ly/osc_uppsala.
+
+Cheers, Richèl Bilderbeek, on behalf of the OSCU team
+```
+
 ## 2025-02-02
 
 <oscu@freelists.org>
