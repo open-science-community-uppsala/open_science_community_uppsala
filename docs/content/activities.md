@@ -3,7 +3,7 @@
 We usually have a speaker at the second Friday of the month,
 see schedule below.
 
-![Our next event](20250314_parul_tewatia/20250314_parul_tewatia.jpg)
+![Our next event](20250411_joanna_sendecka/poster.jpg)
 
 When                      | Where                   |What
 --------------------------|-------------------------|-----------------------------------------------------------------------------------------------------------------

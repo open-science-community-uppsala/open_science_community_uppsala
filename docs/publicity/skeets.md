@@ -1,5 +1,12 @@
 # Skeets
 
+## 2025-04-01
+
+```text
+OSCU's next talk: Friday April 11th 16:15-17:00 at Stadsbiblioteket by Joanna Sendecka: 'Fear-not Open Science - tackling challenges in sharing your research'.
+```
+
+
 ## 2025-03-05
 
 ```text
