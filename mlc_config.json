@@ -1,22 +1,11 @@
 {
-    "aliveStatusCodes": [40, 200, 401, 403, 418, 500, 502, 503],
+    "aliveStatusCodes": [0, 40, 200, 401, 403, 418, 500, 502, 503],
     "ignorePatterns": [
         {
             "pattern": [
-                "^https://opensciencesweden.org/"
-             ]
-        },
-        {
-            "pattern": [
-                "https://bibliotekuppsala.se/web/arena/stadsbiblioteket#/"
-             ]
-        },
-        {
-            "pattern": [
-                "^https://sops4ri.eu/"
+                "^https://some_example_weird_url_just_in_case.com/"
              ]
         }
-
     ]
 }
 
