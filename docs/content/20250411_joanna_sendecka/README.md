@@ -7,9 +7,7 @@
 ![Joanna Sendecka](poster.jpg)
 
 
-Title: .
-
-Description: 
+## Description
 
 As more and more researchers spoke out about the flaws of using the h-index to assess academic performance, several international movements raised. The most recent—and the biggest so far—is CoARA, the Coalition for Advancing Research Assessment.
 
