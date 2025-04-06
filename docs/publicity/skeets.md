@@ -1,5 +1,13 @@
 # Skeets
 
+
+## 2025-04-05
+
+```text
+OSCU's next talk: Friday April 11th 16:15-17:00 at Stadsbiblioteket by Joanna Sendecka: 'Breaking the Impact Factor - how CoARA is changing research assessment'.
+```
+
+
 ## 2025-04-01
 
 ```text
