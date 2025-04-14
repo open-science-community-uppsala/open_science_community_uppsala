@@ -5,18 +5,18 @@ edit_uri: blob/main/docs/
 
 nav:
   - What:
-    - What is Open Science Community Uppsala: content/what.md
+    - What is Open Science Community Uppsala: what.md
   - Where:
-    - Where is Open Science Community Uppsala: content/where.md
-  - Activities:
-    - Activities: content/activities.md
-    - Past events: content/past_events.md
+    - Where is Open Science Community Uppsala: where.md
+  - Events:
+    - events: events/events.md
+    - Past events: events/past_events.md
   - Follow us:
-    - How to follow Open Science Community Uppsala: content/follow.md
+    - How to follow Open Science Community Uppsala: follow.md
   - FAQ:
-    - Frequently asked questions: content/faq.md
+    - Frequently asked questions: faq.md
   - Contact us:
-    - Contact us: content/contact_us.md
+    - Contact us: contact_us.md
 
 theme:
   name: material
