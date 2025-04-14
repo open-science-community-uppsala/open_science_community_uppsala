@@ -142,4 +142,5 @@ PLOS
 Findable
 Interoperable
 organise
+CoARA
 
