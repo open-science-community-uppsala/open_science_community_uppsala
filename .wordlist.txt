@@ -143,4 +143,9 @@ Findable
 Interoperable
 organise
 CoARA
+HARKing
+preregistrations
+pptx
+kottm
+
 
