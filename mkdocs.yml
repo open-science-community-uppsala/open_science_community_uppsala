@@ -9,14 +9,14 @@ nav:
   - Where:
     - Where is Open Science Community Uppsala: where.md
   - Events:
-    - events: events/events.md
+    - Events: events/events.md
     - Past events: events/past_events.md
-  - Follow us:
-    - How to follow Open Science Community Uppsala: follow.md
-  - FAQ:
+  - Misc:
+    - Acknowledgments: acknowledgments.md
     - Frequently asked questions: faq.md
-  - Contact us:
-    - Contact us: contact_us.md
+  - About us:
+    - How to contact us: contact_us.md
+    - How to follow us: follow.md
 
 theme:
   name: material
