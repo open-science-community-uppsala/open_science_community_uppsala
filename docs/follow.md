@@ -14,9 +14,3 @@ Logo                                                |Link
 ![LinkedIn logo](pics/In-Blue-34.png)               | **[LinkedIn](https://www.linkedin.com/groups/9261540/)**
 ![Bluesky logo](bluesky_logo_38_x_34.png)           | **[@osc-uppsala](https://bsky.app/profile/osc-uppsala.bsky.social)**
 ![Facebook logo](pics/facebook_logo_34_x_34.png)    | **[Facebook](https://www.facebook.com/profile.php?id=100090996055053)**
-
-Or share the URL of this website with this QR code:
-
-![Open Science Community Uppsala homepage link](bit.ly_osc_uppsala.png)
-
-> QR code to Open Science Community Uppsala homepage
