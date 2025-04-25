@@ -14,9 +14,9 @@ resulting in research that is (more likely to be) reproducible.
 This group discusses the pros and cons of Open Science
 by means of discussing papers and inviting speakers.
 
-- [What is Open Science Community Uppsala?](content/what.md)
-- [How to follow Open Science Community Uppsala](content/follow.md)
-- [Events](content/events.md)
-- [Past events](content/past_events.md)
-- [FAQ](content/faq.md)
+- [What is Open Science Community Uppsala?](what.md)
+- [How to follow Open Science Community Uppsala](follow.md)
+- [Events](events.md)
+- [Past events](past_events.md)
+- [FAQ](faq.md)
 
