@@ -1,4 +1,4 @@
 # Publicity
 
-- [Newletters](newsletter_archive.md) sent to the emaillist
+- [Newsletters](newsletter_archive.md) sent to the emaillist
 - [Skeet](skeets.md)
