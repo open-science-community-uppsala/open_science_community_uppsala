@@ -4,7 +4,7 @@
 
 Hi `[speaker_name]`,
 
-I see in the Open Science Community Uppsala schedule [1], 
+I see in the Open Science Community Uppsala schedule [1],
 that on `[date]` 16:15-17:00 you'll be giving the talk
 `[talk_title]`.
 
@@ -16,4 +16,4 @@ The publicity goes out at around `[deadline_date]`, hopefully with your added te
 
 Thanks and cheers, Richel
 
-- [1] https://open-science-community-uppsala.github.io/open_science_community_uppsala/events/events
+- [1] <https://open-science-community-uppsala.github.io/open_science_community_uppsala/events/events>
