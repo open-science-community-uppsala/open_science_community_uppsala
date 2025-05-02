@@ -1,6 +1,6 @@
 # Frequently asked questions
 
-![Open Science Community Uppsala logo](../logo/oscu_logo_25.png)
+![Open Science Community Uppsala logo](logo/oscu_logo_25.png)
 
 > The Open Science Community Uppsala logo
 
@@ -92,7 +92,7 @@ and Open Science in particular.
 
 ### How many people visit each event?
 
-See [the 'data' section](../data/README.md), where you can find all data.
+See [the 'data' section](data/README.md), where you can find all data.
 
 ### What is the history of OSCU?
 
@@ -155,7 +155,7 @@ To connect people that are interesting in learning more about Open Science.
 - Sent at the first day of each month, for months that have an activity
 - Short
 
-See [the newsletter archive](../publicity/newsletter_archive.md) for previous newsletters.
+See [the newsletter archive](publicity/newsletter_archive.md) for previous newsletters.
 
 ## Bluesky
 
@@ -164,7 +164,7 @@ See [the newsletter archive](../publicity/newsletter_archive.md) for previous ne
 - Sent at the first day of each month, for months that have an activity
 - Short
 
-See [the skeets archive](../publicity/skeets.md) for previous skeets.
+See [the skeets archive](publicity/skeets.md) for previous skeets.
 
 ## Information for speakers
 
@@ -200,7 +200,7 @@ Around two-thirds of the audience works in academia.
 
 ### How many visitors can I expect?
 
-See [the 'data' section](../data/README.md), where you can find all data.
+See [the 'data' section](data/README.md), where you can find all data.
 
 ### What are the technical properties of the room?
 
