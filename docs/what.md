@@ -1,6 +1,6 @@
 # What is Open Science Community Uppsala?
 
-![The Open Science Community Uppsala logo](../logo/oscu_logo_25.png)
+![The Open Science Community Uppsala logo](logo/oscu_logo_25.png)
 
 > The Open Science Community Uppsala logo
 
@@ -20,7 +20,7 @@ The goal of Open Science Community Uppsala is:
 - at a **public location** (i.e. non-scientists can reach the venue)
 - in a **scholarly** way (i.e. we embrace the scientific method in our discussions)
 
-We do so by [organizing activities](activities.md)
+We do so by [organizing events](events/events.md)
 especially people presenting an aspect of Open Science.
 See [the frequently asked questions](faq.md) for more questions
 and answers on Open Science Uppsala.

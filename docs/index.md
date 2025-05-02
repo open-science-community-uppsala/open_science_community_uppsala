@@ -16,7 +16,7 @@ by means of discussing papers and inviting speakers.
 
 - [What is Open Science Community Uppsala?](what.md)
 - [How to follow Open Science Community Uppsala](follow.md)
-- [Events](events.md)
-- [Past events](past_events.md)
+- [Events](events/events.md)
+- [Past events](events/past_events.md)
 - [FAQ](faq.md)
 
