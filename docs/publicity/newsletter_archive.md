@@ -19,7 +19,7 @@ This is the monthly, short, OSCU newsletter.
 
 Open Science events in Uppsala this month:
 
-- Friday 2025-05-09 16:15-17:00 @ Stadsbiblioteket: Rafael Ahlskog, 'Working with pre-registrations when using register data'
+- Friday 2025-05-09 16:15-17:00 @ Stadsbiblioteket: Rafael Ahlskog, 'Working with pre-registrations when using register data'. Talk description is below this email.
 
 Open Science events in Uppsala next months:
 
@@ -28,6 +28,20 @@ Open Science events in Uppsala next months:
 Hope to see you at our events! As always, more info at the OSCU website at https://bit.ly/osc_uppsala.
 
 Cheers, Richèl Bilderbeek, on behalf of the OSCU team
+
+
+
+Talk description Rafael Ahlskog, 'Working with pre-registrations when using register data':
+
+Preregistered analyses have been one of the major proposed solutions to the
+problem of "questionable research practices" like p-hacking and HARKing.
+This solution works because ideally, we then commit to a specific set of
+analyses before data is even gathered. However - in many cases, researchers
+have to rely on data that has already been gathered by someone else. This
+inherently compromises the "data blindness" that we are supposed to have when
+writing up our preregistration. Is there still a way that preregistrations
+could be useful? How should we think about data blinding when the data is
+already out there?
 ```
 
 ## 2025-04-05
