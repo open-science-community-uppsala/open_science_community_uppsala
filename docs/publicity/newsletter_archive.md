@@ -15,33 +15,24 @@ May OSCU monthly newsletter
 
 Dear Open Science Community Uppsala email list member,
 
-This is the monthly, short, OSCU newsletter.
+This is the monthly, short, OSCU newsletter. The next event (and last event before the summer) is this coming Friday:
 
-Open Science events in Uppsala this month:
+"Working with pre-registrations when using register data"
+Presenter: Rafael Ahlskog, researcher (PhD, docent) Department of Government, Uppsala University
+Time & Venue: Friday 2025-05-09 16:15-17:00 @ Stadsbiblioteket
 
-- Friday 2025-05-09 16:15-17:00 @ Stadsbiblioteket: Rafael Ahlskog, 'Working with pre-registrations when using register data'. Talk description is below this email.
+Preregistered analyses have been one of the major proposed solutions to the problem of "questionable research practices" like p-hacking and HARKing. This solution works because ideally, we then commit to a specific set of analyses before data is even gathered. However - in many cases, researchers have to rely on data that has already been gathered by someone else. This inherently compromises the "data blindness" that we are supposed to have when writing up our preregistration. Is there still a way that preregistrations could be useful? How should we think about data blinding when the data is already out there?
 
-Open Science events in Uppsala next months:
 
-- Friday 2025-09-12 16:15-17:00 @ Stadsbiblioteket: Jonas Söderberg, TBA
+The next upcoming Open Science event in Uppsala, is after the summer:
 
-Hope to see you at our events! As always, more info at the OSCU website at https://bit.ly/osc_uppsala.
+- Friday 2025-09-12 16:15-17:00 (venue to be decided): Jonas Söderberg, PhD, application expert, bioinformatician, head of unit - SCoRe
+
+Uppsala University, title of presentation to be decided
+
+Hope to see you at our events! Get in touch if you have ideas for future talks! As always, more info at the OSCU website at https://bit.ly/osc_uppsala.
 
 Cheers, Richèl Bilderbeek, on behalf of the OSCU team
-
-
-
-Talk description Rafael Ahlskog, 'Working with pre-registrations when using register data':
-
-Preregistered analyses have been one of the major proposed solutions to the
-problem of "questionable research practices" like p-hacking and HARKing.
-This solution works because ideally, we then commit to a specific set of
-analyses before data is even gathered. However - in many cases, researchers
-have to rely on data that has already been gathered by someone else. This
-inherently compromises the "data blindness" that we are supposed to have when
-writing up our preregistration. Is there still a way that preregistrations
-could be useful? How should we think about data blinding when the data is
-already out there?
 ```
 
 ## 2025-04-05
