@@ -36,6 +36,7 @@ When                      | Where                   |What
 2025-03-16 **18:30-19:30**|USB [1], Mallassal       |Richèl Bilderbeek, `Oppen Forsking: som vanligt forskning, men bättre` (in Swedish) as a guest of [Science Fika](https://www.sciencefika.se/)
 2025-04-03 13:00-14:00    |Online                   |[PLOS and SciLifeLab Webinar: Navigating Open Science Policies – Practical Guidance for Researchers on Sharing Data and Software](https://www.scilifelab.se/event/plos-and-scilifelab-webinar-navigating-open-science-policies-practical-guidance-for-researchers-on-sharing-data-and-software/)
 2025-04-11 16:15-17:00    |USB [1], Konferensrummet |[Joanna Sendecka, 'Fear-not Open Science - tackling challenges in sharing your research'](20250411_joanna_sendecka/README.md)
+2025-04-22 10:00-11:00    |Online                   |[Webinar '“It just works with my software” – How to adopt the FAIR principles in life science research at any career stage'](https://www.scilifelab.se/event/datamanagement-fair-principles/)
 
 * [1] USB: [Uppsala Stadsbibliotek](https://bibliotekuppsala.se/web/arena/stadsbiblioteket#/),
    Svartbäcksgatan 17, 753 75 Uppsala

@@ -1,5 +1,7 @@
 # Rafael Ahlskog: 'Working with pre-registrations when using register data'
 
+![2025-05-09 Rafael Ahlskog](poster.jpg)
+
 - When: 2025-05-09 16:15-17:00
 - Where: USB [1], Konferensrummet
 - Who: Rafael Ahlskog
