@@ -1,5 +1,11 @@
 # Skeets
 
+## 2025-05-06
+
+```text
+OSCU's next talk: Friday May 9th 16:15-17:00 at Stadsbiblioteket by Rafael Ahlskog: 'Working with pre-registrations when using register data'
+```
+
 
 ## 2025-04-05
 
