@@ -7,6 +7,10 @@
 - Who: Rafael Ahlskog
 - Title: 'Working with pre-registrations when using register data'
 
+- Presentation slides:
+    - [Slides](Pre-reg_with_register_data.pdf)
+    - [Handout](Pre-reg_with_register_data_handout.pdf)
+
 Talk description:
 
 Preregistered analyses have been one of the major proposed solutions to the
