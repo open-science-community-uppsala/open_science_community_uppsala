@@ -16,8 +16,9 @@ nav:
     - Frequently asked questions: faq.md
     - Publicity: publicity/README.md
   - About us:
-    - How to contact us: contact_us.md
     - How to follow us: follow.md
+    - How to contact us: contact_us.md
+    - Who are we: who_are_we.md
 
 theme:
   name: material
