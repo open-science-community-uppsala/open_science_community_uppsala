@@ -211,32 +211,7 @@ See [the 'data' section](data/README.md), where you can find all data.
 
 ### Who are the team members?
 
-Ordered alphabetically on first name:
-
-- Anna Hallberg
-  ![ORCID logo](pics/ORCIDiD_icon16x16.png)
-  [0000-0001-6219-1402](https://orcid.org/0000-0001-6219-1402)
-- Börje Dahrén
-  ![ORCID logo](pics/ORCIDiD_icon16x16.png)
-  [0000-0002-9274-6998](https://orcid.org/0000-0002-9274-6998)
-- Dennis Leenheer
-- Johanna Söderström
-  ![ORCID logo](pics/ORCIDiD_icon16x16.png)
-  [0000-0003-3210-8609](https://orcid.org/0000-0003-3210-8609)
-- Jonas Söderberg
-  ![ORCID logo](pics/ORCIDiD_icon16x16.png)
-  [0000-0003-2722-7590](https://orcid.org/0000-0003-2722-7590)
-  ![GitHub logo](pics/github_logo_16_x_16.png)
-  [Netzach](https://github.com/Netzach)
-- Richel Bilderbeek:
-  ![ORCID logo](pics/ORCIDiD_icon16x16.png)
-  [0000-0003-1107-7049](https://orcid.org/0000-0003-1107-7049)
-  ![Bluesky logo](pics/twitter_logo_19_x_16.png)
-  [@richelbilderbeek](https://bsky.app/profile/richelbilderbeek.bsky.social)
-  ![GitHub logo](pics/github_logo_16_x_16.png)
-  [richelbilderbeek](https://github.com/richelbilderbeek)
-  ![OSF logo](pics/osf_logo_16_x_16.png)
-  [Richel Bilderbeek](https://osf.io/5dtem/)
+See [Who are we?](who_are_we.md).
 
 ### What is the current structure of Open Science Community Uppsala?
 
@@ -254,21 +229,11 @@ Ordered alphabetically on first name:
 
 ### Who are the reserve team members?
 
-Yup, we even have a reserve team. Here they are!
-
-Ordered alphabetically on first name:
-
-- Adam Gill
-  ![ORCID logo](pics/ORCIDiD_icon16x16.png)
-  [0000-0001-5641-610X](https://orcid.org/0000-0001-5641-610X)
+See [Who are we?](who_are_we.md).
 
 ### Who are former team members?
 
-Sometimes other things are even more important :-)
-
-- Emmi Puuvuori
-  ![ORCID logo](pics/ORCIDiD_icon16x16.png)
-  [0000-0001-8501-218X](https://orcid.org/0000-0001-8501-218X)
+See [Who are we?](who_are_we.md).
 
 ### I want to help organize! Am I welcome?
 
