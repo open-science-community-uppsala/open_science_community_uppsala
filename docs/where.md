@@ -5,7 +5,7 @@ Most of our events are at
 Uppsala:
 
 ???- question "What was the previous location?"
- 
+
     Our past events were at [Uppsala Stadsbibliotek](https://bibliotekuppsala.se/web/arena/stadsbiblioteket#/),
     Svartbäcksgatan 17, 753 75 Uppsala:
 

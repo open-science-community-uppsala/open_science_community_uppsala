@@ -31,13 +31,18 @@ When                      | Where                   |What
 2024-10-18 16:15-17:00    |USB [1], Studion         |[Christopher Erdmann, Open science at SciLifeLab - the infrastructure unit's role in advancing open science in Sweden and beyond](20241018_christopher_erdmann/README.md)
 2024-11-08 16:15-17:00    |USB [1], Studion         |[Richel Bilderbeek, Open Science and humans being scientists](20241108_richel_bilderbeek/README.md)
 2025-01-10 16:15-17:00    |USB [1], Konferensrummet |[Ismail Elouafiq: 'Beyond the lab: spreading the joy of figuring things out'](20250110_ismail_elouafiq/README.md)
-2025-02-14 16:15-17:00    |Puben [2]                |[Informal meeting with logo discussion](20250214_informal_meeting/README.md)
+2025-02-14 16:15-17:00    |Puben [3]                |[Informal meeting with logo discussion](20250214_informal_meeting/README.md)
 2025-03-14 16:15-17:00    |USB [1], Konferensrummet |[Parul Tewatia: 'FAIR Play: Mastering Metadata to Empower Early-Career Life Scientists'](20250314_parul_tewatia/README.md)
 2025-03-16 **18:30-19:30**|USB [1], Mallassal       |Richèl Bilderbeek, `Oppen Forsking: som vanligt forskning, men bättre` (in Swedish) as a guest of [Science Fika](https://www.sciencefika.se/)
 2025-04-03 13:00-14:00    |Online                   |[PLOS and SciLifeLab Webinar: Navigating Open Science Policies – Practical Guidance for Researchers on Sharing Data and Software](https://www.scilifelab.se/event/plos-and-scilifelab-webinar-navigating-open-science-policies-practical-guidance-for-researchers-on-sharing-data-and-software/)
 2025-04-11 16:15-17:00    |USB [1], Konferensrummet |[Joanna Sendecka, 'Fear-not Open Science - tackling challenges in sharing your research'](20250411_joanna_sendecka/README.md)
 2025-04-22 10:00-11:00    |Online                   |[Webinar '“It just works with my software” – How to adopt the FAIR principles in life science research at any career stage'](https://www.scilifelab.se/event/datamanagement-fair-principles/)
+2025-05-09 16:15-17:00    |USB [1], Konferensrummet |[Rafael Ahlskog, 'Working with pre-registrations when using register data'](20250509_rafael_ahlskog/README.md)
+2025-05-14 15:00          |Online                   |How a Community of Practice (CoP) can support your research. During this presentation you will hear from Josh Gottesman (Michael J. Fox Foundation), Bogdana-Raluca Huma (Vrije Universiteit Amsterdam & Community of Practice for Open Naturally Occurring Data), and Mirjam Walpot (International Network of Open Science & Scholarship Communities) about real-world examples of successful CoPs and the value they bring to researchers and institutions alike. [Registration here](https://www.scilifelab.se/event/how-a-community-of-practice-can-support-your-research/)
+2025-05-15 15:00          |Online                   |Leveraging Overlay Journals to Link to and Cite Data, Software, and Research Outputs. In this presentation you will hear from Philipp Koellinger (President of the DeSci Foundation) and Christopher Erdmann (Head of Open Science, SciLifeLab) and they will show how you can link and share your data, software, and other research files alongside your published articles, leveraging the decentralised web and digital object identifiers (DOIs), to make your research outputs globally discoverable and citable. [Registration link](https://www.scilifelab.se/event/leveraging-overlay-journals-to-link-to-and-cite-data-software-and-research-outputs/)
+2025-05-27 10:15-12:00    |Online                   |The future of Open Science in Sweden [Registration link](https://www.scilifelab.se/event/the-future-of-open-science-in-sweden)
 
-* [1] USB: [Uppsala Stadsbibliotek](https://bibliotekuppsala.se/web/arena/stadsbiblioteket#/),
-   Svartbäcksgatan 17, 753 75 Uppsala
-* [2] SLU, Ulls hus, Ultuna campus, Almas allé 8, 756 51 Uppsala
+- [1] USB: [Uppsala Stadsbibliotek](https://bibliotekuppsala.se/web/arena/stadsbiblioteket#/),
+  Svartbäcksgatan 17, 753 75 Uppsala
+- [2] SLU, Ulls hus, Ultuna campus, Almas allé 8, 756 51 Uppsala
+- [3] [Puben](https://pubenuppsala.se/), S:t Olofsgatan 9, 753 21, Uppsala
