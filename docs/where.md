@@ -1,22 +1,28 @@
 # Where
 
-Most of our events are at [Uppsala Stadsbibliotek](https://bibliotekuppsala.se/web/arena/stadsbiblioteket#/),
-Svartbäcksgatan 17, 753 75 Uppsala:
+Most of our events are at
+[Carolina Rediviva, room Café 4.5](https://link.mazemap.com/90ZtnxI3),
+Uppsala:
 
-![Annotated map of Uppsala showing the Stadsbibliotek](pics/uppsala_map_annotated.png)
+???- question "What was the previous location?"
+ 
+    Our past events were at [Uppsala Stadsbibliotek](https://bibliotekuppsala.se/web/arena/stadsbiblioteket#/),
+    Svartbäcksgatan 17, 753 75 Uppsala:
 
-> Map, from [OpenStreetMap](https://www.openstreetmap.org/way/98942846).
-> We are at 1.
->
-> 1. Uppsala Stadsbibliotek, Svartbäcksgatan 17
-> 2. Domkyrkan
-> 3. Stora torget
-> 4. Uppsala Central Station
+    ![Annotated map of Uppsala showing the Stadsbibliotek](pics/uppsala_map_annotated.png)
 
-![Annotated map of USB and how to find Konferensrummet](pics/usb_konferensrummet.png)
+    > Map, from [OpenStreetMap](https://www.openstreetmap.org/way/98942846).
+    > We are at 1.
+    >
+    > 1. Uppsala Stadsbibliotek, Svartbäcksgatan 17
+    > 2. Domkyrkan
+    > 3. Stora torget
+    > 4. Uppsala Central Station
 
-> The ground floor of Uppsala Stadsbibliotek. We are in the room called 'Konferensrummet'
+    ![Annotated map of USB and how to find Konferensrummet](pics/usb_konferensrummet.png)
 
-![Konferensrummet](konferensrummet.jpg)
+    > The ground floor of Uppsala Stadsbibliotek. We are in the room called 'Konferensrummet'
 
-> Konferensrummet
+    ![Konferensrummet](konferensrummet.jpg)
+
+    > Konferensrummet
