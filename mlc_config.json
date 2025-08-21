@@ -1,5 +1,5 @@
 {
-    "aliveStatusCodes": [0, 40, 200, 401, 403, 418, 500, 502, 503],
+    "aliveStatusCodes": [0, 40, 200, 401, 403, 418, 429, 500, 502, 503],
     "ignorePatterns": [
         {
             "pattern": [
