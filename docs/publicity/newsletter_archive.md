@@ -1,6 +1,6 @@
 # Newsletter archive
 
-<!-- markdownlint-disable MD013 -->
+<!-- markdownlint-disable MD013 --><!-- easy copy-pasting over 80 characters here -->
 
 ## 2025-09-12
 
@@ -36,7 +36,7 @@ Open Science events in Uppsala next months:
 - Friday 2025-12-12 16:15-17:00 @ Carolina Rediviva, Cafe 4.5:
   Alma Nilsson, TBA
 
-Hope to see you at our events at Caralina Redeviva! As always, more info at the OSCU website at <https://bit.ly/osc_uppsala>.
+Hope to see you at our events at Carolina Rediviva! As always, more info at the OSCU website at <https://bit.ly/osc_uppsala>.
 
 Cheers, Richèl Bilderbeek, on behalf of the OSCU team
 

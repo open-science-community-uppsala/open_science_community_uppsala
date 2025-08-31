@@ -26,11 +26,11 @@ markdownlint
 markdownlintignore
 mlc
 txt
+ZtnxI
+mazemap
 wordlist
 yml
-
 socio
-
 Barbro
 Bornsäter
 de
