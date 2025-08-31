@@ -2,6 +2,46 @@
 
 <!-- markdownlint-disable MD013 -->
 
+## 2025-09-12
+
+!!! warning "This is a draft"
+
+    This is a draft. Johanna will improve this text :-)
+
+<oscu@freelists.org>
+
+```text
+September OSCU monthly newsletter
+
+Dear Open Science Community Uppsala email list member,
+
+This is the monthly, short, OSCU newsletter.
+
+NEW LOCATION: Carolina Rediviva, Cafe 4.5 (link to the map: https://link.mazemap.com/90ZtnxI3 ).
+
+Open Science events in Uppsala this month:
+
+- Friday 2025-09-12 16:15-17:00 @ Carolina Rediviva, Cafe 4.5:
+  Jonas Söderberg: 'Who (really) is that? Authentication infrastructure is vital to Open Science'.
+  Summary: Why open science is necessary in a global context
+  and how having reliable and good assurance,
+  authentication and authorisation infrastructure is vital to achive that.
+
+Open Science events in Uppsala next months:
+
+- Friday 2025-10-10 16:15-17:00 @ Carolina Rediviva, Cafe 4.5: 
+  OPEN SLOT.
+  You are extra welcome to give a talk here :-)
+- Friday 2025-11-14 16:15-17:00 @ Carolina Rediviva, Cafe 4.5:
+  Elin Kronander, TBA
+- Friday 2025-12-12 16:15-17:00 @ Carolina Rediviva, Cafe 4.5:
+  Alma Nilsson, TBA
+
+Hope to see you at our events at Caralina Redeviva! As always, more info at the OSCU website at https://bit.ly/osc_uppsala.
+
+Cheers, Richèl Bilderbeek, on behalf of the OSCU team
+```
+
 ## 2025-05-02
 
 !!! warning "This is a draft"
