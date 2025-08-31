@@ -16,7 +16,7 @@ Dear Open Science Community Uppsala email list member,
 
 This is the monthly, short, OSCU newsletter.
 
-NEW LOCATION: Carolina Rediviva, Cafe 4.5 (link to the map: https://link.mazemap.com/90ZtnxI3 ).
+NEW LOCATION: Carolina Rediviva, Cafe 4.5 (link to the map: <https://link.mazemap.com/90ZtnxI3> ).
 
 Open Science events in Uppsala this month:
 
@@ -28,7 +28,7 @@ Open Science events in Uppsala this month:
 
 Open Science events in Uppsala next months:
 
-- Friday 2025-10-10 16:15-17:00 @ Carolina Rediviva, Cafe 4.5: 
+- Friday 2025-10-10 16:15-17:00 @ Carolina Rediviva, Cafe 4.5:
   OPEN SLOT.
   You are extra welcome to give a talk here :-)
 - Friday 2025-11-14 16:15-17:00 @ Carolina Rediviva, Cafe 4.5:
@@ -36,7 +36,7 @@ Open Science events in Uppsala next months:
 - Friday 2025-12-12 16:15-17:00 @ Carolina Rediviva, Cafe 4.5:
   Alma Nilsson, TBA
 
-Hope to see you at our events at Caralina Redeviva! As always, more info at the OSCU website at https://bit.ly/osc_uppsala.
+Hope to see you at our events at Caralina Redeviva! As always, more info at the OSCU website at <https://bit.ly/osc_uppsala>.
 
 Cheers, Richèl Bilderbeek, on behalf of the OSCU team
 
