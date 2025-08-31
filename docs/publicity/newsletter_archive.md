@@ -10,7 +10,6 @@
 
 <oscu@freelists.org>
 
-```text
 September OSCU monthly newsletter
 
 Dear Open Science Community Uppsala email list member,
@@ -40,7 +39,6 @@ Open Science events in Uppsala next months:
 Hope to see you at our events at Caralina Redeviva! As always, more info at the OSCU website at https://bit.ly/osc_uppsala.
 
 Cheers, Richèl Bilderbeek, on behalf of the OSCU team
-```
 
 ## 2025-05-02
 
