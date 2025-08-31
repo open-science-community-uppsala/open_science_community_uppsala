@@ -20,5 +20,13 @@ matrix:
       - 'blockquote'
   sources:
   - '**/*.md'
+  # I could not get this to work. Instead, I remove multi-language pages
+  # in .github/workflows/check_spelling.yaml
+  #
+  # exclude:
+  # - docs/publicity/uu_newsletter_20230613/README.md
+  # - docs/events/20231025_richel_bilderbeek/README.md
+  # - ./docs/events/20231025_richel_bilderbeek/README.md
+  # - '**/20231025_richel_bilderbeek/README.md'
+  # - docs/events/20240614_nicole_teroni/README.md
   default_encoding: utf-8
-

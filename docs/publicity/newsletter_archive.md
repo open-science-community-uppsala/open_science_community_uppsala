@@ -25,7 +25,7 @@ Open Science events in Uppsala this month:
   Jonas Söderberg: 'Who (really) is that? Authentication infrastructure is vital to Open Science'.
   Summary: Why open science is necessary in a global context
   and how having reliable and good assurance,
-  authentication and authorisation infrastructure is vital to achive that.
+  authentication and authorisation infrastructure is vital to achieve that.
 
 Open Science events in Uppsala next months:
 

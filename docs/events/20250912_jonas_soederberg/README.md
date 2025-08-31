@@ -12,4 +12,4 @@
 
 Why open science is necessary in a global context
 and how having reliable and good assurance,
-authentication and authorisation infrastructure is vital to achive that.
+authentication and authorisation infrastructure is vital to achieve that.
