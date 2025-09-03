@@ -16,15 +16,19 @@ Dear Open Science Community Uppsala email list member,
 
 This is the monthly, short, OSCU newsletter.
 
-NEW LOCATION: Carolina Rediviva, Cafe 4.5 (link to the map: <https://link.mazemap.com/90ZtnxI3> ).
+NEW LOCATION this entire fall: Carolina Rediviva, Cafe 4.5 (link to the map: <https://link.mazemap.com/90ZtnxI3> ).
 
 Open Science events in Uppsala this month:
 
-- Friday 2025-09-12 16:15-17:00 @ Carolina Rediviva, Cafe 4.5:
-  Jonas Söderberg: 'Who (really) is that? Authentication infrastructure is vital to Open Science'.
+”Who (really) is that? Authentication infrastructure is vital to Open Science.”
+Presenter: Jonas Söderberg, PhD, application expert, bioinformatician, head of unit - SCoRe
+
+Time & Venue: Friday 2025-09-12 16:15-17:00 @ Carolina Rediviva, Cafe 4.5
+
   Summary: Why open science is necessary in a global context
   and how having reliable and good assurance,
   authentication and authorisation infrastructure is vital to achieve that.
+
 
 Open Science events in Uppsala next months:
 
@@ -32,11 +36,11 @@ Open Science events in Uppsala next months:
   OPEN SLOT.
   You are extra welcome to give a talk here :-)
 - Friday 2025-11-14 16:15-17:00 @ Carolina Rediviva, Cafe 4.5:
-  Elin Kronander, TBA
+  Elin Kronander, Bioinformatician at Department of Cell and Molecular Biology; NBIS - National Bioinformatics Infrastructure Sweden, TBA
 - Friday 2025-12-12 16:15-17:00 @ Carolina Rediviva, Cafe 4.5:
-  Alma Nilsson, TBA
+  Alma Nilsson, Project Coordinator at Department of Immunology, Genetics and Pathology; Facilities; SciLifeLab Data Centre, TBA
 
-Hope to see you at our events at Carolina Rediviva! As always, more info at the OSCU website at <https://bit.ly/osc_uppsala>.
+Hope to see you at our events at Carolina Rediviva! Get in touch if you have ideas for future talks! As always, more info at the OSCU website at <https://bit.ly/osc_uppsala>.
 
 Cheers, Richèl Bilderbeek, on behalf of the OSCU team
 
