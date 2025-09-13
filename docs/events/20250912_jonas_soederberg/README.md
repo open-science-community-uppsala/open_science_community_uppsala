@@ -8,6 +8,8 @@
 
 ![2025-09-12 Jonas Söderberg poster](poster.jpg)
 
+- [Presentation](AAI_OSCU.pptx)
+
 ## Talk description
 
 Why open science is necessary in a global context
