@@ -169,3 +169,7 @@ citable
 decentralised
 discoverable
 Nilsson
+SCoRe
+bioinformatician
+Bioinformatician
+Centre
