@@ -3,6 +3,10 @@
 We usually have a speaker at the second Friday of the month,
 see schedule below.
 
+!!! info "Our next event"
+
+    ![Our next event](20251010_per_olov_hammargren/poster.jpg)
+
 When (CEST)               | Where                  |What
 --------------------------|------------------------|-----------------------------------------------------------------------------------------------------------------
 2025-10-10 16:15-17:00    |CR [1], Café 4.5        |[Per-Olov Hammargren: The European Open Science Cloud: what is it and why is it important?](20251010_per_olov_hammargren/README.md)
