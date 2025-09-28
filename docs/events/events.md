@@ -5,7 +5,7 @@ see schedule below.
 
 When (CEST)               | Where                  |What
 --------------------------|------------------------|-----------------------------------------------------------------------------------------------------------------
-2025-10-10 16:15-17:00    |CR [1], Café 4.5        |Per-Olov Hammargren: The European Open Science Cloud: what is it and why is it important?
+2025-10-10 16:15-17:00    |CR [1], Café 4.5        |[Per-Olov Hammargren: The European Open Science Cloud: what is it and why is it important?](20251010_per_olov_hammargren/README.md)
 2025-11-14 16:15-17:00    |CR [1], Café 4.5        |?Elin Kronander
 2025-12-12 16:15-17:00    |CR [1], Café 4.5        |Alma Nilsson, TBA
 
