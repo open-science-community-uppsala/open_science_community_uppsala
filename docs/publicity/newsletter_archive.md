@@ -21,7 +21,7 @@ NEW LOCATION this entire fall: Carolina Rediviva, Cafe 4.5 (link to the map: <ht
 Open Science events in Uppsala this month:
 
 "The European Open Science Cloud: what is it and why is it important?"
-Presenter: Per-Olov Hammargren, Coordinator at University Administration; Division for Research and Partnership Support; Reseacher Services Unit
+Presenter: Per-Olov Hammargren, Coordinator at University Administration; Division for Research and Partnership Support; Researcher Services Unit
 
 Time & Venue: Friday 2025-10-10 16:15-17:00 @ Carolina Rediviva, Cafe 4.5
 
