@@ -10,6 +10,43 @@
 
 <oscu@freelists.org>
 
+October OSCU monthly newsletter
+
+Dear Open Science Community Uppsala email list member,
+
+This is the monthly, short, OSCU newsletter.
+
+NEW LOCATION this entire fall: Carolina Rediviva, Cafe 4.5 (link to the map: <https://link.mazemap.com/90ZtnxI3> ).
+
+Open Science events in Uppsala this month:
+
+"The European Open Science Cloud: what is it and why is it important?"
+Presenter: Per-Olov Hammargren, Coordinator at University Administration; Division for Research and Partnership Support; Reseacher Services Unit
+
+Time & Venue: Friday 2025-10-10 16:15-17:00 @ Carolina Rediviva, Cafe 4.5
+
+  Summary: The European Open Science Cloud is a EU funded infrastructure
+  to help Open Science, that has been under development since 2015.
+  This talk will discuss the goal of EOSC, how it helps doing Open Science,
+  as well as the current state.
+  The goal of this talk is to help you decide whether to (now/later)
+  use EOSC in your Open Science activities.
+
+Open Science events in Uppsala next months:
+
+- Friday 2025-11-14 16:15-17:00 @ Carolina Rediviva, Cafe 4.5:
+  Elin Kronander, Bioinformatician at Department of Cell and Molecular Biology; NBIS - National Bioinformatics Infrastructure Sweden, TBA
+- Friday 2025-12-12 16:15-17:00 @ Carolina Rediviva, Cafe 4.5:
+  Alma Nilsson, Project Coordinator at Department of Immunology, Genetics and Pathology; Facilities; SciLifeLab Data Centre, TBA
+
+Hope to see you at our events at Carolina Rediviva! Get in touch if you have ideas for future talks! As always, more info at the OSCU website at <https://bit.ly/osc_uppsala>.
+
+Cheers, Richèl Bilderbeek, on behalf of the OSCU team
+
+## 2025-09-12
+
+<oscu@freelists.org>
+
 September OSCU monthly newsletter
 
 Dear Open Science Community Uppsala email list member,
