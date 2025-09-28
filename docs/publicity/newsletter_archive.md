@@ -41,7 +41,7 @@ Open Science events in Uppsala next months:
 
 Hope to see you at our events at Carolina Rediviva! Get in touch if you have ideas for future talks! As always, more info at the OSCU website at <https://bit.ly/osc_uppsala>.
 
-Cheers, Richèl Bilderbeek, on behalf of the OSCU team
+Cheers, the OSCU team
 
 ## 2025-09-12
 
