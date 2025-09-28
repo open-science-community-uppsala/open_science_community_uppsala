@@ -173,3 +173,7 @@ SCoRe
 bioinformatician
 Bioinformatician
 Centre
+Hammargren
+Olov
+EOSC
+Drottninggatan
