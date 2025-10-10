@@ -4,6 +4,7 @@
 - Title: The European Open Science Cloud: what is it and why is it important?
 - When: 2025-10-10 16:15-17:00
 - Where: [Carolina Rediviva](https://link.mazemap.com/90ZtnxI3), Cafe 4.5
+- [Presentation slides](slides.pptx)
 
 ![2025-10-10 Per-Olov Hammargren: The European Open Science Cloud](poster.jpg)
 
