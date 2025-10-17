@@ -9,12 +9,11 @@ see schedule below.
 
 When (CEST)                  | Where                  |What
 -----------------------------|------------------------|-----------------------------------------------------------------------------------------------------------------
-2025-10-10 16:15-17:00       |CR `[1]`, Café 4.5      |[Per-Olov Hammargren: The European Open Science Cloud: what is it and why is it important?](20251010_per_olov_hammargren/README.md)
-2025-11-14 16:15-17:00       |CR `[1]`, Café 4.5      |Elin Kronander, TBA
+2025-11-14 16:15-17:00       |CR `[1]`, Café 4.5      |Elin Kronander, 'Open data - is it worth it?' (working title)
 2025-12-12 16:15-17:00       |CR `[1]`, Café 4.5      |Alma Nilsson, TBA
 2025-01-?16 `[2]` 16:15-17:00|?CR `[1]`, Café 4.5     |.
 2025-02-?13 16:15-17:00      |?CR `[1]`, Café 4.5     |.
-2025-03-?13 16:15-17:00      |?CR `[1]`, Café 4.5     |.
+2025-03-?13 16:15-17:00      |?CR `[1]`, Café 4.5     |?Maria Vrettou
 2025-04-?10 16:15-17:00      |?CR `[1]`, Café 4.5     |.
 2025-05-?08 16:15-17:00      |?CR `[1]`, Café 4.5     |.
 2025-06?-12 16:15-17:00      |?CR `[1]`, Café 4.5     |.
