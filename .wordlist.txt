@@ -26,6 +26,7 @@ markdownlint
 markdownlintignore
 mlc
 txt
+Vrettou
 ZtnxI
 mazemap
 wordlist
