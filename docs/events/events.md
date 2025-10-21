@@ -5,7 +5,7 @@ see schedule below.
 
 !!! info "Our next event"
 
-    ![Our next event](20251010_per_olov_hammargren/poster.jpg)
+    ![Our next event](20251114_elin_kronander/poster.jpg)
 
 When (CEST)                  | Where                  |What
 -----------------------------|------------------------|-----------------------------------------------------------------------------------------------------------------
