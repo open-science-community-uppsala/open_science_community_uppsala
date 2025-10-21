@@ -29,6 +29,7 @@ txt
 Vrettou
 ZtnxI
 mazemap
+PathOS
 wordlist
 yml
 socio
