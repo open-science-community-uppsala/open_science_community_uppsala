@@ -9,7 +9,7 @@ see schedule below.
 
 When (CEST)                  | Where                  |What
 -----------------------------|------------------------|-----------------------------------------------------------------------------------------------------------------
-2025-11-14 16:15-17:00       |CR `[1]`, Café 4.5      |Elin Kronander, 'Open data - is it worth it?' (working title)
+2025-11-14 16:15-17:00       |CR `[1]`, Café 4.5      |[Elin Kronander, 'Open data - is it worth it? Insights from the PathOS-project'](20251114_elin_kronander/README.md)
 2025-12-12 16:15-17:00       |CR `[1]`, Café 4.5      |Alma Nilsson, TBA
 2025-01-?16 `[2]` 16:15-17:00|?CR `[1]`, Café 4.5     |.
 2025-02-?13 16:15-17:00      |?CR `[1]`, Café 4.5     |.
