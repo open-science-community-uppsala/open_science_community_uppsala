@@ -2,6 +2,42 @@
 
 <!-- markdownlint-disable MD013 --><!-- easy copy-pasting over 80 characters here -->
 
+## 2025-11-01
+
+<oscu@freelists.org>
+
+October OSCU monthly newsletter
+
+Dear Open Science Community Uppsala email list member,
+
+This is the monthly, short, OSCU newsletter.
+
+NEW LOCATION this entire fall: Carolina Rediviva, Cafe 4.5 (link to the map: <https://link.mazemap.com/90ZtnxI3> ).
+
+Open Science events in Uppsala this month:
+
+"Open data - is it worth it? Insights from the PathOS-project"
+Presenter: Elin Kronander, head of NBIS unit 'Support, Infrastructure and Training'
+
+Time & Venue: Friday 2025-11-14 16:15-17:00 @ Carolina Rediviva, Cafe 4.5
+
+  Summary: Is Open Data worth the effort?
+  This talk explores the PathOS project (Pathways to Open Science),
+  a systematic EU initiative to develop methods for quantifying
+  the real-world impact of Open Science.
+  We will explore the PathOS framework,
+  focusing on how they trace Open Science Impact Pathways
+  to prove the causal links between open data practices and tangible outcomes.
+
+Open Science events in Uppsala next months:
+
+- Friday 2025-12-12 16:15-17:00 @ Carolina Rediviva, Cafe 4.5:
+  Alma Nilsson, Project Coordinator at Department of Immunology, Genetics and Pathology; Facilities; SciLifeLab Data Centre, TBA
+
+Hope to see you at our events at Carolina Rediviva! Get in touch if you have ideas for future talks! As always, more info at the OSCU website at <https://bit.ly/osc_uppsala>.
+
+Cheers, the OSCU team
+
 ## 2025-10-01
 
 <oscu@freelists.org>
