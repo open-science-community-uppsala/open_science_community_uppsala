@@ -30,7 +30,7 @@ Time & Venue: Friday 2025-11-14 16:15-17:00 @ Carolina Rediviva, Cafe 4.5
   to prove the causal links between open data practices and tangible outcomes.
 
 After the event, we continue the discussion at the closest pub
-called William's at Äsgränd 5.
+called William's at Åsgränd 5.
 
 Open Science events in Uppsala next months:
 
