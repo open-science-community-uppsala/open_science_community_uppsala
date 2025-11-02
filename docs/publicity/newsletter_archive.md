@@ -6,7 +6,7 @@
 
 <oscu@freelists.org>
 
-October OSCU monthly newsletter
+November OSCU monthly newsletter
 
 Dear Open Science Community Uppsala email list member,
 
