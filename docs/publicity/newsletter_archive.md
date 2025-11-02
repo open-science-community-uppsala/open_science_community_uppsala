@@ -29,6 +29,9 @@ Time & Venue: Friday 2025-11-14 16:15-17:00 @ Carolina Rediviva, Cafe 4.5
   focusing on how they trace Open Science Impact Pathways
   to prove the causal links between open data practices and tangible outcomes.
 
+After the event, we continue the discussion at the closest pub
+called William's at Äsgränd 5.
+
 Open Science events in Uppsala next months:
 
 - Friday 2025-12-12 16:15-17:00 @ Carolina Rediviva, Cafe 4.5:
