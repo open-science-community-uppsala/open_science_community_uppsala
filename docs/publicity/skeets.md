@@ -1,5 +1,11 @@
 # Skeets
 
+## 2025-11-04
+
+```text
+OSCU's next talk: Friday November 14th 16:15-17:00 at Caroline Rediviva (Café 4.5) by Elin Kronander: 'Open data - is it worth it? Insights from the PathOS-project'
+```
+
 ## 2025-05-06
 
 ```text
