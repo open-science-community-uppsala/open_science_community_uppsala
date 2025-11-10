@@ -82,7 +82,7 @@ that wants to discuss the scientific method in general
 and Open Science in particular.
 
 Additionally, OSCU has good connection to the Carolina Rediviva staff,
-many of them former speakers at our events :-) 
+many of them former speakers at our events :-)
 
 ### What will not be accepted in discussions?
 
