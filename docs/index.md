@@ -20,3 +20,6 @@ by means of discussing papers and inviting speakers.
 - [Past events](events/past_events.md)
 - [FAQ](faq.md)
 
+---
+
+![The SCoRe logo](score_logo_25.png)
