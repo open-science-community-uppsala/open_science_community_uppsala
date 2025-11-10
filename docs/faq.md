@@ -75,11 +75,14 @@ You are always welcome :-)
 
 See [Follow us](follow.md) on how to follow us.
 
-### Why is Open Science Community Uppsala at the Stadsbibliotek? Why not at the university?
+### Why is Open Science Community Uppsala at the Carolina Rediviva?
 
 Because the meetings are intended to be open to everyone
 that wants to discuss the scientific method in general
 and Open Science in particular.
+
+Additionally, OSCU has good connection to the Carolina Rediviva staff,
+many of them former speakers at our events :-) 
 
 ### What will not be accepted in discussions?
 
@@ -96,10 +99,36 @@ See [the 'data' section](data/README.md), where you can find all data.
 
 ### What is the history of OSCU?
 
+- 2025-11-06: OSCU gets official support from
+  [SCoRe](https://nbisweden.github.io/SCoRe_user_doc/)
 - 2025-01-01: Change name to Open Science Community Uppsala
-- 202?-??-??: OSCU was founded, named 'Open Science Uppsala'
+- 2022-10-20: OSCU had Jonas Söderberg
+  (a member of [SCoRe](https://nbisweden.github.io/SCoRe_user_doc/))
+  as its first team member
+- 2022-07-06: OSCU was founded, named 'Open Science Uppsala'
 
-![OSU logo](logo/osu_logo_25.png)
+???- question "What is the OSCU logo?"
+
+    ![OSCU logo](logo/oscu_logo_25.png)
+
+    > The OSCU logo, used from 2025-01-01 to now
+
+???- question "What was the OSU logo?"
+
+    ![OSU logo](logo/osu_logo_25.png)
+
+    > The OSU logo, used from 2022-07-06 to 2025-01-01
+
+### What is the relation between OSCU and SCoRe?
+
+[SCoRe](https://nbisweden.github.io/SCoRe_user_doc/)
+supports OSCU officially, allowing OSCU members
+within SCoRe to work on OSCU under working hours.
+
+[SCoRe](https://nbisweden.github.io/SCoRe_user_doc/) is the first
+that actually supports OSCU. For example,
+[the Uppsala University Open Science page](https://www.uu.se/en/library/publish/open-science)
+does not link to OSCU and its webmaster refuses to link to OSCU.
 
 ## Other communities
 
@@ -127,11 +156,7 @@ There are many, here I list communities that have members in Uppsala:
   the bigger, national community
 - [European Open Science Cloud Association](https://eosc.eu/),
   the bigger, more online community
-- [FAIRPoints](https://www.fairpoints.org/): an online
-  event series highlighting pragmatic measures
-  developed by the community
-  towards the implementation of the FAIR data principles.
-- [Open life Science](https://openlifesci.org/):
+- [Open life Science](https://we-are-ols.org/):
   a program for people interested in applying open principles
   in their work and becoming Open Science ambassadors in their communities.
 
@@ -223,9 +248,9 @@ See [Who are we?](who_are_we.md).
 - Maintaining this website: Richel
 - Social media:
     - [Bluesky](https://bsky.app/profile/osc-uppsala.bsky.social): Richel
-    - Facebook: Anna
+    - Facebook: Richel
     - LinkedIn: [Open position]
-    - Mastodon: Börje
+    - Mastodon: [Open position]
 
 ### Who are the reserve team members?
 
@@ -268,8 +293,8 @@ See [Contact us](contact_us.md).
 - [Uppsala university library page on Open Science](https://www.uu.se/en/library/publish/open-science)
 - [SOPS4RI](https://sops4ri.eu/) ('Standard Operating Procedures for Research Integrity')
 - [Open Science Radio](https://www.openscienceradio.org)
-- [https://bit.ly/osc_uppsala](https://bit.ly/osc_uppsala): shorter link to homepage
-- [https://github.com/open-science-uppsala/open_science_uppsala](https://github.com/open-science-uppsala/open_science_uppsala): GitHub page
+- [`https://bit.ly/osc_uppsala`](https://bit.ly/osc_uppsala): shorter link to homepage
+- [`https://github.com/open-science-uppsala/open_science_uppsala`](https://github.com/open-science-uppsala/open_science_uppsala): GitHub page
 - [CODECHECK](https://codecheck.org.uk/): tests if a computational experiment can be reproduced
 - [ReproHack](https://www.reprohack.org/): tests if an academic paper can be reproduced
 - [rOpenSci](https://ropensci.org/): public peer-review of R packages
