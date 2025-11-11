@@ -20,7 +20,7 @@ This is the current OSCU team, ordered alphabetically on first name:
 - Richel Bilderbeek:
   ![ORCID logo](pics/ORCIDiD_icon16x16.png)
   [0000-0003-1107-7049](https://orcid.org/0000-0003-1107-7049)
-  ![Bluesky logo](pics/bluesky_logo_19_x_16.png)
+  ![Bluesky logo](bluesky_logo_38_x_34.png)
   [@richelbilderbeek](https://bsky.app/profile/richelbilderbeek.bsky.social)
   ![GitHub logo](pics/github_logo_16_x_16.png)
   [richelbilderbeek](https://github.com/richelbilderbeek)
