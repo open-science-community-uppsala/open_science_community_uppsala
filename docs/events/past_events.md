@@ -43,6 +43,7 @@ When                      | Where                   |What
 2025-05-27 10:15-12:00    |Online                   |The future of Open Science in Sweden [Registration link](https://www.scilifelab.se/event/the-future-of-open-science-in-sweden)
 2025-09-12 16:15-17:00    |CR [1], Café 4.5         |[Jonas Söderberg](20250912_jonas_soederberg/README.md)
 2025-10-10 16:15-17:00    |CR `[1]`, Café 4.5       |[Per-Olov Hammargren: The European Open Science Cloud: what is it and why is it important?](20251010_per_olov_hammargren/README.md)
+2025-11-14 16:15-17:00    |CR `[1]`, Café 4.5       |[Elin Kronander, 'Open data - is it worth it? Insights from the PathOS-project'](20251114_elin_kronander/README.md)
 
 - [1] USB: [Uppsala Stadsbibliotek](https://bibliotekuppsala.se/web/arena/stadsbiblioteket#/),
   Svartbäcksgatan 17, 753 75 Uppsala
