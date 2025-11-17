@@ -22,4 +22,4 @@ by means of discussing papers and inviting speakers.
 
 ---
 
-![The SCoRe logo](score_logo_25.png)
+![The SCoRe logo](logo/score_logo_25.png)
