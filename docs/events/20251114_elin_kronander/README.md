@@ -7,6 +7,9 @@
 
 ![2025-11-14 Elin Kronander: Open data - is it worth it? Insights from the PathOS-project](poster.jpg)
 
+- [Slides](slides.pdf)
+- [The poster mentioned in the slides](https://zenodo.org/records/13797214)
+
 ## Talk description
 
 Is Open Data worth the effort?
