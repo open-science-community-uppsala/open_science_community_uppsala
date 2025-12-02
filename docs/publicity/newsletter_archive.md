@@ -2,7 +2,7 @@
 
 <!-- markdownlint-disable MD013 --><!-- easy copy-pasting over 80 characters here -->
 
-## 2025-12-02
+## 2025-12-12
 
 <oscu@freelists.org>
 
