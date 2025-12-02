@@ -1,6 +1,7 @@
 Bilderbeek
 authorisation
 Åsgränd
+artefacts
 csv
 Elouafiq
 FreeLists
