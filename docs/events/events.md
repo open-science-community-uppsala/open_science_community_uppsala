@@ -5,11 +5,11 @@ see schedule below.
 
 !!! info "Our next event"
 
-    ![Our next event](20251114_elin_kronander/poster.jpg)
+    ![Our next event](20251212_alma_nilsson/poster.jpg)
 
 When (CEST)                  | Where                  |What
 -----------------------------|------------------------|-----------------------------------------------------------------------------------------------------------------
-2025-12-12 16:15-17:00       |CR `[1]`, Café 4.5      |Alma Nilsson, TBA
+2025-12-12 16:15-17:00       |CR `[1]`, Café 4.5      |Alma Nilsson, A Researcher's Guide to FAIR Software and AI
 2025-01-?16 `[2]` 16:15-17:00|?CR `[1]`, Café 4.5     |.
 2025-02-?13 16:15-17:00      |?CR `[1]`, Café 4.5     |.
 2025-03-?13 16:15-17:00      |?CR `[1]`, Café 4.5     |?Maria Vrettou
