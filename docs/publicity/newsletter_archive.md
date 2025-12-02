@@ -2,6 +2,40 @@
 
 <!-- markdownlint-disable MD013 --><!-- easy copy-pasting over 80 characters here -->
 
+## 2025-12-02
+
+<oscu@freelists.org>
+
+November OSCU monthly newsletter
+
+Dear Open Science Community Uppsala email list member,
+
+This is the monthly, short, OSCU newsletter.
+
+NEW LOCATION this entire fall: Carolina Rediviva, Cafe 4.5 (link to the map: <https://link.mazemap.com/90ZtnxI3> ).
+
+Open Science events in Uppsala this month:
+
+"A Researcher's Guide to FAIR Software and AI"
+Presenter: Alma Nilsson, Project Coordinator at SciLifeLab Data Centre and the department of Immunology, Genetics and Pathology
+
+Time & Venue: Friday 2025-12-12 16:15-17:00 @ Carolina Rediviva, Cafe 4.5
+
+  Summary: This talk introduces what FAIR means for research software and AI, why openness matters, and how researchers can make their code and models more aligned with best practices. It covers practical steps for sharing code, based on the SciLifeLab Open Software Checklist, and additional considerations for machine learning artefacts.
+
+After the event, we continue the discussion at the closest pub
+called William's at Åsgränd 5.
+
+Open Science events in Uppsala next months:
+
+- Friday 2025-01-16 16:15-17:00 @ Carolina Rediviva, Cafe 4.5: Open slot, you are welcome to present here :-)
+- Friday 2025-02-13 16:15-17:00 @ Carolina Rediviva, Cafe 4.5: Open slot, you are welcome to present here :-)
+- Friday 2025-03-13 16:15-17:00 @ Carolina Rediviva, Cafe 4.5: Maria Vrettou, TBA
+
+Hope to see you at our events at Carolina Rediviva! Get in touch if you have ideas for future talks! As always, more info at the OSCU website at <https://bit.ly/osc_uppsala>.
+
+Cheers, the OSCU team
+
 ## 2025-11-01
 
 <oscu@freelists.org>
