@@ -5,7 +5,7 @@ see schedule below.
 
 !!! info "Our next event"
 
-    ![Our next event](20251212_alma_nilsson/poster.jpg)
+    ![Our next event](20251212_alma_nilsson/poster_2.jpg)
 
 When (CEST)                  | Where                  |What
 -----------------------------|------------------------|-----------------------------------------------------------------------------------------------------------------
