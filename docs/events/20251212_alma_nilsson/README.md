@@ -11,3 +11,4 @@
 
 This talk introduces what FAIR means for research software and AI, why openness matters, and how researchers can make their code and models more aligned with best practices. It covers practical steps for sharing code, based on the SciLifeLab Open Software Checklist, and additional considerations for machine learning artefacts.
 
+
