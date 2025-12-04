@@ -1,5 +1,11 @@
 # Skeets
 
+## 2025-12-04
+
+```text
+OSCU's next talk: Friday December 12th 16:15-17:00 at Caroline Rediviva (Café 4.5) by Alma Nilsson: 'A Researcher's Guide to FAIR Software and AI'
+```
+
 ## 2025-11-04
 
 ```text
