@@ -2,6 +2,36 @@
 
 <!-- markdownlint-disable MD013 --><!-- easy copy-pasting over 80 characters here -->
 
+##
+
+## 2026-01-07
+
+<oscu@freelists.org>
+
+January OSCU monthly newsletter
+
+Dear Open Science Community Uppsala email list member,
+
+This is the monthly, short, OSCU newsletter.
+
+Our next event **may** be on:
+
+Friday 16th of January 16:15-17:00 @ Carolina Rediviva, Cafe 4.5
+
+This will be confirmed in a future post when I know more.
+It will be about a publication platform where one can publish open access books
+and get them in print too. However, again, it still needs to be confirmed.
+
+Open Science events in Uppsala next months:
+
+- Friday 2025-01-16 16:15-17:00 @ Carolina Rediviva, Cafe 4.5: to be confirmed
+- Friday 2025-02-13 16:15-17:00 @ Carolina Rediviva, Cafe 4.5: Hans Karlsson, TBA
+- Friday 2025-03-13 16:15-17:00 @ Carolina Rediviva, Cafe 4.5: Maria Vrettou, TBA
+
+Hope to see you at our events at Carolina Rediviva! Get in touch if you have ideas for future talks! As always, more info at the OSCU website at <https://bit.ly/osc_uppsala>.
+
+Cheers, the OSCU team
+
 ## 2025-12-12
 
 <oscu@freelists.org>
