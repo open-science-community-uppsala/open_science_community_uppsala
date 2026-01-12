@@ -14,7 +14,7 @@ When (CEST)                  | Where                  |What
 2026-02-13 16:15-17:00       |CR `[1]`, Café 4.5      |Hans Karlsson, TBA
 2026-03-13 16:15-17:00       |CR `[1]`, Café 4.5      |Maria Vrettou, TBA
 2026-04-10 16:15-17:00       |CR `[1]`, Café 4.5      |Taha Ahmed, TBA
-2026-05-08 16:15-17:00       |CR `[1]`, Café 4.5      |.
+2026-05-08 16:15-17:00       |CR `[1]`, Café 4.5      |Börje Dahrén, TBA
 
 - See ['past events'](past_events.md) for our past activities.
 - `[1]` [Carolina Rediviva](https://link.mazemap.com/90ZtnxI3), Uppsala,
