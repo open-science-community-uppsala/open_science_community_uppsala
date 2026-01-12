@@ -9,11 +9,10 @@ see schedule below.
 
 When (CEST)                  | Where                  |What
 -----------------------------|------------------------|-----------------------------------------------------------------------------------------------------------------
-2025-12-12 16:15-17:00       |CR `[1]`, Café 4.5      |[Alma Nilsson, 'A Researcher's Guide to FAIR Software and AI'](20251212_alma_nilsson/README.md)
 2026-01-16 16:15-17:00       |CR `[1]`, Café 4.5      |No event
 2026-02-03 10:00-11:00       |Online                  |Gerben ter Riet, 'What can a sociological framework from the mid-twentieth century teach us about today’s open-science challenges? More than you might think', [Zoom](https://uu-se.zoom.us/j/65990273341)
 2026-02-13 16:15-17:00       |CR `[1]`, Café 4.5      |Hans Karlsson, TBA
-2026-03-13 16:15-17:00       |CR `[1]`, Café 4.5      |?Maria Vrettou
+2026-03-13 16:15-17:00       |CR `[1]`, Café 4.5      |Maria Vrettou, TBA
 2026-04-10 16:15-17:00       |CR `[1]`, Café 4.5      |Taha Ahmed, TBA
 2026-05-08 16:15-17:00       |CR `[1]`, Café 4.5      |.
 
