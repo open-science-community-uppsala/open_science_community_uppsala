@@ -1,5 +1,11 @@
 # Skeets
 
+## 2025-01-12
+
+```text
+This Friday OSCU has no talk. At 17:00, however, you can join us at William's Pub instead, for some informal discussion of Open Science. If needed, contact Richel Bilderbeek to help make sure you can find us :-)
+```
+
 ## 2025-12-04
 
 ```text
