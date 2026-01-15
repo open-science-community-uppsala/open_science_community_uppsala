@@ -30,6 +30,13 @@ theme:
     primary: white
   logo: logo/oscu_logo.png
 
+  # Keyboard shortcuts for navigation, from https://www.mkdocs.org/user-guide/choosing-your-theme/
+  shortcuts:
+    help: 191    # ?
+    next: 78     # n
+    previous: 80 # p
+    search: 83   # s
+
   features:
     - toc.integrate
     - navigation.tabs
