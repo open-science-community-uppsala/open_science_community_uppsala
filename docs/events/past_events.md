@@ -45,7 +45,7 @@ When                      |Where                    |What
 2025-10-10 16:15-17:00    |CR `[1]`, Café 4.5       |[Per-Olov Hammargren: The European Open Science Cloud: what is it and why is it important?](20251010_per_olov_hammargren/README.md)
 2025-11-14 16:15-17:00    |CR `[1]`, Café 4.5       |[Elin Kronander, 'Open data - is it worth it? Insights from the PathOS-project'](20251114_elin_kronander/README.md)
 2025-12-12 16:15-17:00    |CR `[1]`, Café 4.5       |[Alma Nilsson, 'A Researcher's Guide to FAIR Software and AI'](20251212_alma_nilsson/README.md)
- 
+
 Abbreviation|Description
 ------------|------------------------------------------------------------------
 CR          |[Carolina Rediviva](https://link.mazemap.com/90ZtnxI3)
