@@ -11,10 +11,10 @@ When (CEST)                  | Where                  |What
 -----------------------------|------------------------|-----------------------------------------------------------------------------------------------------------------
 2026-01-16 16:15-17:00       |CR `[1]`, Café 4.5      |No event
 2026-02-03 10:00-11:00       |Online                  |Gerben ter Riet, 'What can a sociological framework from the mid-twentieth century teach us about today’s open-science challenges? More than you might think', [Zoom](https://uu-se.zoom.us/j/65990273341)
-2026-02-13 16:15-17:00       |CR `[1]`, Café 4.5      |Hans Karlsson, TBA
-2026-03-13 16:15-17:00       |CR `[1]`, Café 4.5      |Maria Vrettou, TBA
-2026-04-10 16:15-17:00       |CR `[1]`, Café 4.5      |Taha Ahmed, TBA
-2026-05-08 16:15-17:00       |CR `[1]`, Café 4.5      |Börje Dahrén, TBA
+2026-02-13 16:15-17:00       |CR `[1]`, Café 4.5, CL  |Hans Karlsson, TBA 
+2026-03-13 16:15-17:00       |CR `[1]`, Café 4.5, BB  |Maria Vrettou, TBA
+2026-04-10 16:15-17:00       |CR `[1]`, Café 4.5, JE  |Taha Ahmed, TBA
+2026-05-08 16:15-17:00       |CR `[1]`, Café 4.5, BD  |Börje Dahrén, TBA
 .                            |.                       |Summer holiday
 2026-09-11 16:15-17:00       |CR `[1]`, Café 4.5      |`[Empty slot]`
 2026-10-09 16:15-17:00       |CR `[1]`, Café 4.5      |`[Empty slot]`
