@@ -2,6 +2,41 @@
 
 <!-- markdownlint-disable MD013 --><!-- easy copy-pasting over 80 characters here -->
 
+## 2026-02-01
+
+<oscu@freelists.org>
+
+February OSCU monthly newsletter
+
+Dear Open Science Community Uppsala email list member,
+
+This is the monthly, short, OSCU newsletter.
+
+Open Science events in Uppsala this month:
+
+"Open Science at Uppsala University – where are we today? Where are we going?"
+Presenter: Hans Karlsson, the Vice-Chancellor's representative in the work on open science at Uppsala University and professor at the Department of Information Technology
+
+Time & Venue: Friday 2026-02-13 16:15-17:00 @ Carolina Rediviva, Cafe 4.5
+
+  Summary: I will give an overview of current work on Open Science at Uppsala University, including Policy for open science, participation in EOSC-A and CoARA and in The Guild Open Science working group.
+
+After the event, we continue the discussion at the closest pub
+called William's at Åsgränd 5.
+
+Open Science events in Uppsala next months:
+
+- Friday 2025-03-13 16:15-17:00 @ Carolina Rediviva, Cafe 4.5: Maria Vrettou, TBA
+- Friday 2026-04-10 16:15-17:00 @ Carolina Rediviva, Cafe 4.5: Taha Ahmed, TBA
+- Friday 2026-05-08 16:15-17:00 @ Carolina Rediviva, Cafe 4.5: Börje Dahrén, TBA
+
+Hope to see you at our events at Carolina Rediviva! Get in touch if you have ideas for future talks! As always, more info at the OSCU website at <https://bit.ly/osc_uppsala>.
+
+Cheers, the OSCU team
+
+
+
+
 ## 2026-01-12
 
 <oscu@freelists.org>
