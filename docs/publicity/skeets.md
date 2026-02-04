@@ -1,6 +1,12 @@
 # Skeets
 
-## 2025-01-12
+## 2026-02-03
+
+```text
+OSCU's next talk: Friday February 13th 16:15-17:00 at Caroline Rediviva (Café 4.5) by Hans Karlsson: 'Open Science at Uppsala University - where are we today? Where are we going?'
+```
+
+## 2026-01-12
 
 ```text
 This Friday OSCU has no talk. At 17:00, however, you can join us at William's Pub instead, for some informal discussion of Open Science. If needed, contact Richel Bilderbeek to help make sure you can find us :-)
