@@ -6,6 +6,8 @@
 - Where: [Carolina Rediviva](https://link.mazemap.com/90ZtnxI3), Cafe 4.5
   ([detailed route](https://open-science-community-uppsala.github.io/open_science_community_uppsala/where/))
 
+![Poster](poster.jpg)
+
 ## Talk description
 
 I will give an overview of current work on Open Science at Uppsala University,
