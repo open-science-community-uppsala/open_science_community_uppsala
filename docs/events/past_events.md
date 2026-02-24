@@ -46,7 +46,7 @@ When                      |Where                    |What
 2025-11-14 16:15-17:00    |CR `[1]`, Café 4.5       |[Elin Kronander, 'Open data - is it worth it? Insights from the PathOS-project'](20251114_elin_kronander/README.md)
 2025-12-12 16:15-17:00    |CR `[1]`, Café 4.5       |[Alma Nilsson, 'A Researcher's Guide to FAIR Software and AI'](20251212_alma_nilsson/README.md)
 2026-01-16 16:15-17:00    |CR `[1]`, Café 4.5       |No event
-2026-02-03 10:00-11:00    |Online                   |Gerben ter Riet, 'What can a sociological framework from the mid-twentieth century teach us about today’s open-science challenges? More than you might think', [Zoom](https://uu-se.zoom.us/j/65990273341)
+2026-02-13 16:15-17:00    |CR `[1]`, Café 4.5, CL   |[Hans Karlsson, Open Science at Uppsala University - where are we today? Where are we going?](20260213_hans_karlsson/README.md)
 
 Abbreviation|Description
 ------------|------------------------------------------------------------------

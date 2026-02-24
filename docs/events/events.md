@@ -9,12 +9,11 @@ see schedule below.
 
 When (CEST)                  | Where                  |What
 -----------------------------|------------------------|-----------------------------------------------------------------------------------------------------------------
-2026-02-13 16:15-17:00       |CR `[1]`, Café 4.5, CL  |[Hans Karlsson, Open Science at Uppsala University - where are we today? Where are we going?](20260213_hans_karlsson/README.md)
-2026-03-13 16:15-17:00       |CR `[1]`, Café 4.5, BB  |Maria Vrettou, TBA
+2026-03-13 16:15-17:00       |CR `[1]`, Café 4.5, BB  |Open slot
 2026-04-10 16:15-17:00       |CR `[1]`, Café 4.5, JE  |Taha Ahmed, TBA
 2026-05-08 16:15-17:00       |CR `[1]`, Café 4.5, BD  |Börje Dahrén, TBA
 .                            |.                       |Summer holiday
-2026-09-11 16:15-17:00       |CR `[1]`, Café 4.5      |`[Empty slot]`
+2026-09-11 16:15-17:00       |CR `[1]`, Café 4.5      |Maria Vrettou, TBA
 2026-10-09 16:15-17:00       |CR `[1]`, Café 4.5      |`[Empty slot]`
 2026-11-13 16:15-17:00       |CR `[1]`, Café 4.5      |`[Empty slot]`
 2026-12-11 16:15-17:00       |CR `[1]`, Café 4.5      |`[Empty slot]`
