@@ -2,6 +2,30 @@
 
 <!-- markdownlint-disable MD013 --><!-- easy copy-pasting over 80 characters here -->
 
+## 2026-03-03
+
+<oscu@freelists.org>
+
+March OSCU monthly newsletter
+
+Dear Open Science Community Uppsala email list member,
+
+This is the monthly, short, OSCU newsletter.
+
+Open Science events in Uppsala this month:
+
+- None, due to a cancellation
+
+Open Science events in Uppsala next months:
+
+- Friday 2026-04-10 16:15-17:00 @ Carolina Rediviva, Cafe 4.5: Taha Ahmed, TBA
+- Friday 2026-05-08 16:15-17:00 @ Carolina Rediviva, Cafe 4.5: Börje Dahrén, TBA
+
+Hope to see you at our events at Carolina Rediviva! Get in touch if you have ideas for future talks! As always, more info at the OSCU website at <https://bit.ly/osc_uppsala>.
+
+Cheers, the OSCU team
+
+
 ## 2026-02-01
 
 <oscu@freelists.org>
