@@ -4,8 +4,6 @@
 
 ## 2026-04-04
 
-## 2026-02-01
-
 <oscu@freelists.org>
 
 April OSCU monthly newsletter
