@@ -5,7 +5,7 @@ see schedule below.
 
 !!! info "Our next event"
 
-    ![Our next event](20260213_hans_karlsson/poster.jpg)
+    ![Our next event](20260410_taha_ahmed/poster.jpg)
 
 When (CEST)               | Where [`3`]             |What
 --------------------------|-------------------------|-----------------------------------------------------------------------------------------------------------------
