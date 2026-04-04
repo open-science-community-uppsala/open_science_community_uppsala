@@ -2,6 +2,39 @@
 
 <!-- markdownlint-disable MD013 --><!-- easy copy-pasting over 80 characters here -->
 
+## 2026-04-04
+
+## 2026-02-01
+
+<oscu@freelists.org>
+
+April OSCU monthly newsletter
+
+Dear Open Science Community Uppsala email list member,
+
+This is the monthly, short, OSCU newsletter.
+
+Open Science events in Uppsala this month:
+
+"The libre way to do open science"
+Presenter: Taha Ahmed, Researcher in renewable solar chemistry, https://solarchemist.se/
+
+Time & Venue: Friday 2026-04-10 16:15-17:00 @ Carolina Rediviva, Cafe 4.5
+
+  Summary: In this talk we will ponder together to which extent you are able to use libre software and libre infrastructure today as a researcher. I will give lots of helpful examples, and also touch on how to share your own digital research artefacts (code, software, data) using free and libre services.
+
+After the event, we continue the discussion at the closest pub
+called William's at Åsgränd 5.
+
+Open Science events in Uppsala next months:
+
+- Friday 2026-05-08 16:15-17:00 @ Carolina Rediviva, Cafe 4.5: Börje Dahrén, TBA
+- Friday 2026-09-11 16:15-17:00 @ Carolina Rediviva, Cafe 4.5: Maria Vrettou, TBA
+
+Hope to see you at our events at Carolina Rediviva! Get in touch if you have ideas for future talks! As always, more info at the OSCU website at <https://bit.ly/osc_uppsala>.
+
+Cheers, the OSCU team
+
 ## 2026-03-03
 
 <oscu@freelists.org>
