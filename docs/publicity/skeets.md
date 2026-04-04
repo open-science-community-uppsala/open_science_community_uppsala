@@ -1,5 +1,11 @@
 # Skeets
 
+## 2026-04-04
+
+```text
+OSCU's next talk: Friday April 10th 16:15-17:00 at Caroline Rediviva (Café 4.5) by Taha Ahmed: 'The libre way to do open science'
+```
+
 ## 2026-02-03
 
 ```text

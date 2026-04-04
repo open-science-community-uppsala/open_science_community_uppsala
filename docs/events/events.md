@@ -9,7 +9,7 @@ see schedule below.
 
 When (CEST)               | Where [`3`]             |What
 --------------------------|-------------------------|-----------------------------------------------------------------------------------------------------------------
-2026-04-10 16:15-17:00    |CR `[1]`, Café 4.5, JE   |[Taha Ahmed](20260404_taha_ahmed/README.md)
+2026-04-10 16:15-17:00    |CR `[1]`, Café 4.5, JE   |[Taha Ahmed: the libre way to do open science](20260404_taha_ahmed/README.md)
 2026-05-08 16:15-17:00    |CR `[1]`, Café 4.5, BD   |Börje Dahrén, TBA
 .                         |.                        |Summer holiday
 2026-09-11 16:15-17:00    |CR `[1]`, Café 4.5       |Maria Vrettou, TBA
