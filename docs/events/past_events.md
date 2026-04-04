@@ -47,6 +47,7 @@ When                      |Where                    |What
 2025-12-12 16:15-17:00    |CR `[1]`, Café 4.5       |[Alma Nilsson, 'A Researcher's Guide to FAIR Software and AI'](20251212_alma_nilsson/README.md)
 2026-01-16 16:15-17:00    |CR `[1]`, Café 4.5       |No event
 2026-02-13 16:15-17:00    |CR `[1]`, Café 4.5, CL   |[Hans Karlsson, Open Science at Uppsala University - where are we today? Where are we going?](20260213_hans_karlsson/README.md)
+2026-03-13 16:15-17:00    |CR `[1]`, Café 4.5, BB   |Cancelled
 
 Abbreviation|Description
 ------------|------------------------------------------------------------------
