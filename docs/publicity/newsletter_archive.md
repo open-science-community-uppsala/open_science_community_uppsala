@@ -15,7 +15,7 @@ This is the monthly, short, OSCU newsletter.
 Open Science events in Uppsala this month:
 
 "The libre way to do open science"
-Presenter: Taha Ahmed, Researcher in renewable solar chemistry, https://solarchemist.se/
+Presenter: Taha Ahmed, Researcher in renewable solar chemistry, <https://solarchemist.se/>
 
 Time & Venue: Friday 2026-04-10 16:15-17:00 @ Carolina Rediviva, Cafe 4.5
 
@@ -88,8 +88,6 @@ Open Science events in Uppsala next months:
 Hope to see you at our events at Carolina Rediviva! Get in touch if you have ideas for future talks! As always, more info at the OSCU website at <https://bit.ly/osc_uppsala>.
 
 Cheers, the OSCU team
-
-
 
 
 ## 2026-01-12
