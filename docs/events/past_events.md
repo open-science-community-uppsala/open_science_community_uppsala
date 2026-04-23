@@ -48,6 +48,7 @@ When                      |Where                    |What
 2026-01-16 16:15-17:00    |CR `[1]`, Café 4.5       |No event
 2026-02-13 16:15-17:00    |CR `[1]`, Café 4.5, CL   |[Hans Karlsson, Open Science at Uppsala University - where are we today? Where are we going?](20260213_hans_karlsson/README.md)
 2026-03-13 16:15-17:00    |CR `[1]`, Café 4.5, BB   |Cancelled
+2026-04-10 16:15-17:00    |CR `[1]`, Café 4.5, JE   |[Taha Ahmed: the libre way to do open science](20260410_taha_ahmed/README.md)
 
 Abbreviation|Description
 ------------|------------------------------------------------------------------
