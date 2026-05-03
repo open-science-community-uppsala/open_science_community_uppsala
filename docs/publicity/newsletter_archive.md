@@ -2,6 +2,36 @@
 
 <!-- markdownlint-disable MD013 --><!-- easy copy-pasting over 80 characters here -->
 
+## 2026-05-03
+
+<oscu@freelists.org>
+
+May OSCU monthly newsletter
+
+Dear Open Science Community Uppsala email list member,
+
+This is the monthly, short, OSCU newsletter.
+
+Open Science events in Uppsala this month:
+
+"Academic books and diamond open access"
+Presenter: Börje Dahrén, coordinator of Uppsala University Publications, editor at University Library, part of the Scholarly Communications Division
+
+Time & Venue: Friday 2026-05-08 16:15-17:00 @ Carolina Rediviva, Cafe 4.5
+
+  Summary: The open science transition is largely geared towards the STEM subjects and optimised for shorter format publication formats such as the journal article. In contrast, the open access publishing landscape for the humanities/social sciences in general and for books in particular is relatively speaking both underfunded and underdeveloped. This talk will focus on the existing small scale and researcher-led book publishing initiatives, and how these can be nurtured and and optimised for the diamond OA publishing model.
+
+After the event, we continue the discussion at the closest pub
+called William's at Åsgränd 5.
+
+Open Science events in Uppsala next months:
+
+- Friday 2026-09-11 16:15-17:00 @ Carolina Rediviva, Cafe 4.5: Maria Vrettou, TBA
+
+Hope to see you at our events at Carolina Rediviva! Get in touch if you have ideas for future talks! As always, more info at the OSCU website at <https://bit.ly/osc_uppsala>.
+
+Cheers, the OSCU team
+
 ## 2026-04-04
 
 <oscu@freelists.org>

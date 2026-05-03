@@ -1,5 +1,11 @@
 # Skeets
 
+## 2026-05-03
+
+```text
+OSCU's next talk: Friday May 8th 16:15-17:00 at Caroline Rediviva (Café 4.5) by Börje Dahrén: 'Academic books and diamond open access'
+```
+
 ## 2026-04-04
 
 ```text
