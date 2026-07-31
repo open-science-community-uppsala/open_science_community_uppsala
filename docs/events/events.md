@@ -9,8 +9,8 @@ see schedule below.
 
 When (CEST)               | Where [`3`]             |What
 --------------------------|-------------------------|-----------------------------------------------------------------------------------------------------------------
-2026-05-08 16:15-17:00    |CR `[1]`, Café 4.5, BD   |[Börje Dahrén: 'Academic books and diamond open access'](20260508_boerje_dahreen/README.md)
 .                         |.                        |Summer holiday
+2026-09-08 11:00-12:00    |Online                   |[SciLifeLab OpenRefine workshop](https://www.scilifelab.se/event/openscience-openrefine/)
 2026-09-11 16:15-17:00    |CR `[1]`, Café 4.5       |Maria Vrettou, TBA
 2026-10-09 16:15-17:00    |CR `[1]`, Café 4.5       |`[Empty slot]`
 2026-11-13 16:15-17:00    |CR `[1]`, Café 4.5       |`[Empty slot]`
