@@ -15,6 +15,18 @@ When (CEST)               | Where [`3`]             |What
 2026-10-09 16:15-17:00    |CR `[1]`, Café 4.5       |`[Empty slot]`
 2026-11-13 16:15-17:00    |CR `[1]`, Café 4.5       |`[Empty slot]`
 2026-12-11 16:15-17:00    |CR `[1]`, Café 4.5       |`[Empty slot]`
+2027-01-15 16:15-17:00    |CR `[2,4]`, Café 4.5     |`[Empty slot]`
+2027-02-12 16:15-17:00    |CR `[4]`, Café 4.5       |`[Empty slot]`
+2027-03-12 16:15-17:00    |CR `[4]`, Café 4.5       |`[Empty slot]`
+2027-04-09 16:15-17:00    |CR `[4]`, Café 4.5       |`[Empty slot]`
+2027-05-14 16:15-17:00    |CR `[4]`, Café 4.5       |`[Empty slot]`
+2027-06-11 16:15-17:00    |CR `[4]`, Café 4.5       |No OSCU, due to summer holiday
+2027-07-09 16:15-17:00    |CR `[4]`, Café 4.5       |No OSCU, due to summer holiday
+2027-08-13 16:15-17:00    |CR `[4]`, Café 4.5       |No OSCU, due to summer holiday
+2027-09-10 16:15-17:00    |CR `[4]`, Café 4.5       |`[Empty slot]`
+2027-10-08 16:15-17:00   |CR `[4]`, Café 4.5        |`[Empty slot]`
+2027-11-12 16:15-17:00   |CR `[4]`, Café 4.5        |`[Empty slot]`
+2027-12-10 16:15-17:00   |CR `[4]`, Café 4.5        |`[Empty slot]`
 
 - See ['past events'](past_events.md) for our past activities.
 - `[1]` [Carolina Rediviva](https://link.mazemap.com/90ZtnxI3), Uppsala,
@@ -22,4 +34,5 @@ When (CEST)               | Where [`3`]             |What
 - `[2]` This is the second Friday of the month, after the Christmas holiday
 - `[3]` the two capitals denote the host, e.g. `BD` is Börje Dahrén,
   `JE` is Jens Eriksson
+- `[4]` Not confirmed yet
 
