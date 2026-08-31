@@ -13,7 +13,7 @@ When (CEST)               | Where [`3`]             |What
 2026-09-08 11:00-12:00    |Online                   |[SciLifeLab OpenRefine workshop](https://www.scilifelab.se/event/openscience-openrefine/)
 2026-09-11 16:15-17:00    |CR `[1]`, Café 4.5       |Maria Vrettou, TBA
 2026-10-09 16:15-17:00    |CR `[1]`, Café 4.5       |`[Empty slot]`
-2026-11-13 16:15-17:00    |CR `[1]`, Café 4.5       |`[Empty slot]`
+2026-11-13 16:15-17:00    |CR `[1]`, Café 4.5       |Sami Vihriälä, TBA
 2026-12-11 16:15-17:00    |CR `[1]`, Café 4.5       |`[Empty slot]`
 2027-01-15 16:15-17:00    |CR `[2,4]`, Café 4.5     |`[Empty slot]`
 2027-02-12 16:15-17:00    |CR `[4]`, Café 4.5       |`[Empty slot]`
