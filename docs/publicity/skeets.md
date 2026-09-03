@@ -1,5 +1,11 @@
 # Skeets
 
+## 2026-09-03
+
+```text
+OSCU's next talk: Friday September 11th 16:15-17:00 at Caroline Rediviva (Café 4.5) by Maria Vrettou: 'Open Human Data'
+```
+
 ## 2026-05-03
 
 ```text

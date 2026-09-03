@@ -2,6 +2,39 @@
 
 <!-- markdownlint-disable MD013 --><!-- easy copy-pasting over 80 characters here -->
 
+## 2026-09-03
+
+<oscu@freelists.org>
+
+September OSCU monthly newsletter
+
+Dear Open Science Community Uppsala email list member,
+
+This is the monthly, short, OSCU newsletter.
+
+Open Science events in Uppsala this month:
+
+"Open Human Data"
+Presenter: Maria Vrettou, Data Steward at NBIS and PhD in neuroscientist
+
+Time & Venue: Friday 2026-09-11 16:15-17:00 @ Carolina Rediviva, Cafe 4.5
+
+  Summary: Within Open Science, data should be 'As open as possible, as closed as needed'. Data about humans is essential for research in the life science, yet it is sensitive data too, hence there are rules and regulations to deal with it responsibly. In this talk, Maria Vrettou will talk about open human data: what are the implications of working with sensitive data, what does 'Open Data' really mean in this context.
+
+After the event, we continue the discussion at the closest pub
+called William's at Åsgränd 5.
+
+Open Science events in Uppsala next months:
+
+- Tuesday 2026-09-08 11:00-12:00 @ online: SciLifeLab OpenRefine workshop, https://www.scilifelab.se/event/openscience-openrefine/
+- Wednesday 2026-09-09 15:00-16:00 @ online: webinar: 'Improving Science with Science: Open Research, Equity, and Contributor Recognition', https://www.scilifelab.se/event/improving-science-with-science-open-research-equity-and-contributor-recognition/
+- Friday 2026-10-09 16:15-17:00 @ Carolina Rediviva, Cafe 4.5: [Empty slot]
+- Friday 2026-11-13 16:15-17:00 @ Carolina Rediviva, Cafe 4.5: Sami Vihriälä, TBA
+
+Hope to see you at our events at Carolina Rediviva! Get in touch if you have ideas for future talks! As always, more info at the OSCU website at <https://bit.ly/osc_uppsala>.
+
+Cheers, the OSCU team
+
 ## 2026-05-03
 
 <oscu@freelists.org>
