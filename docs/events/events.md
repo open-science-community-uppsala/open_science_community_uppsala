@@ -5,7 +5,9 @@ see schedule below.
 
 !!! info "Our next event"
 
-    ![Our next event](20260911_marria_vrettou/poster.jpg)
+    - None in October
+
+    - November 13th 16:15-17:00 by Sami Vihriälä
 
 When (CEST)               | Where [`3`]             |What
 --------------------------|-------------------------|-----------------------------------------------------------------------------------------------------------------

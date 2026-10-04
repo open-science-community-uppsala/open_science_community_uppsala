@@ -2,6 +2,28 @@
 
 <!-- markdownlint-disable MD013 --><!-- easy copy-pasting over 80 characters here -->
 
+## 2026-10-04
+
+<oscu@freelists.org>
+
+October OSCU monthly newsletter
+
+Dear Open Science Community Uppsala email list member,
+
+This is the monthly, short, OSCU newsletter.
+
+Open Science events in Uppsala this month:
+
+- None
+
+Open Science events in Uppsala next months:
+
+- Friday 2026-11-13 16:15-17:00 @ Carolina Rediviva, Cafe 4.5: Sami Vihriälä, TBA
+
+Hope to see you at our events at Carolina Rediviva! Get in touch if you have ideas for future talks! As always, more info at the OSCU website at <https://bit.ly/osc_uppsala>.
+
+Cheers, the OSCU team
+
 ## 2026-09-03
 
 <oscu@freelists.org>
