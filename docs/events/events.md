@@ -5,16 +5,11 @@ see schedule below.
 
 !!! info "Our next event"
 
-    - None in October
-
-    - November 13th 16:15-17:00 by Sami Vihriälä
+    ![Sami Vihriälä](20261113_sami_vihriaelae/poster.jpg)
 
 When (CEST)               | Where [`3`]             |What
 --------------------------|-------------------------|-----------------------------------------------------------------------------------------------------------------
-.                         |.                        |Summer holiday
-2026-10-09 16:15-17:00    |CR `[1]`, Café 4.5       |`[Empty slot]`
-2026-10-27 11:00-12:00    |Online                   |Online lecture: [When every hypothesis is published: AI and the exploitation of Open Science Assets](https://www.scilifelab.se/event/when-every-hypothesis-is-published-ai-and-the-exploitation-of-open-science-assets)
-2026-11-13 16:15-17:00    |CR `[1]`, Café 4.5       |Sami Vihriälä, TBA
+2026-11-13 16:15-17:00    |CR `[1]`, Café 4.5       |Sami Vihriälä, Citizen Science Beyond Outreach: Connecting Public Engagement, Open Science and AI
 2026-12-11 16:15-17:00    |CR `[1]`, Café 4.5       |`[Empty slot]`
 2027-01-15 16:15-17:00    |CR `[2,4]`, Café 4.5     |`[Empty slot]`
 2027-02-12 16:15-17:00    |CR `[4]`, Café 4.5       |`[Empty slot]`

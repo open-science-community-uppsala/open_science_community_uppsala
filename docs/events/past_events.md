@@ -1,4 +1,4 @@
-# Events
+# Past events
 
 These are the past OSU events, in chronological order.
 
@@ -51,6 +51,7 @@ When                      |Where                    |What
 2026-04-10 16:15-17:00    |CR `[1]`, Café 4.5, JE   |[Taha Ahmed: the libre way to do open science](20260410_taha_ahmed/README.md)
 2026-05-08 16:15-17:00    |CR `[1]`, Café 4.5, BD   |[Börje Dahrén: 'Academic books and diamond open access'](20260508_boerje_dahreen/README.md)
 2026-09-11 16:15-17:00    |CR `[1]`, Café 4.5       |[Maria Vrettou: 'Open Human Data'](20260911_marria_vrettou/README.md)
+2026-10-09 16:15-17:00    |CR `[1]`, Café 4.5       |No event
 
 Abbreviation|Description
 ------------|------------------------------------------------------------------
