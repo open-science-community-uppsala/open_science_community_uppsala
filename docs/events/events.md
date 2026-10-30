@@ -9,7 +9,7 @@ see schedule below.
 
 When (CEST)               | Where [`3`]             |What
 --------------------------|-------------------------|-----------------------------------------------------------------------------------------------------------------
-2026-11-13 16:15-17:00    |CR `[1]`, Café 4.5       |Sami Vihriälä, Citizen Science Beyond Outreach: Connecting Public Engagement, Open Science and AI
+2026-11-13 16:15-17:00    |CR `[1]`, Café 4.5       |[Sami Vihriälä, Citizen Science Beyond Outreach: Connecting Public Engagement, Open Science and AI](20261113_sami_vihriaelae/README.md)
 2026-12-11 16:15-17:00    |CR `[1]`, Café 4.5       |`[Empty slot]`
 2027-01-15 16:15-17:00    |CR `[2,4]`, Café 4.5     |`[Empty slot]`
 2027-02-12 16:15-17:00    |CR `[4]`, Café 4.5       |`[Empty slot]`
@@ -20,9 +20,9 @@ When (CEST)               | Where [`3`]             |What
 2027-07-09 16:15-17:00    |CR `[4]`, Café 4.5       |No OSCU, due to summer holiday
 2027-08-13 16:15-17:00    |CR `[4]`, Café 4.5       |No OSCU, due to summer holiday
 2027-09-10 16:15-17:00    |CR `[4]`, Café 4.5       |`[Empty slot]`
-2027-10-08 16:15-17:00   |CR `[4]`, Café 4.5        |`[Empty slot]`
-2027-11-12 16:15-17:00   |CR `[4]`, Café 4.5        |`[Empty slot]`
-2027-12-10 16:15-17:00   |CR `[4]`, Café 4.5        |`[Empty slot]`
+2027-10-08 16:15-17:00    |CR `[4]`, Café 4.5       |`[Empty slot]`
+2027-11-12 16:15-17:00    |CR `[4]`, Café 4.5       |`[Empty slot]`
+2027-12-10 16:15-17:00    |CR `[4]`, Café 4.5       |`[Empty slot]`
 
 - See ['past events'](past_events.md) for our past activities.
 - `[1]` [Carolina Rediviva](https://link.mazemap.com/90ZtnxI3), Uppsala,
