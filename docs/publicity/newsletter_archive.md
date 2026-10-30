@@ -2,6 +2,35 @@
 
 <!-- markdownlint-disable MD013 --><!-- easy copy-pasting over 80 characters here -->
 
+## 2026-11-01
+
+<oscu@freelists.org>
+
+November OSCU monthly newsletter
+
+Dear Open Science Community Uppsala email list member,
+
+This is the monthly, short, OSCU newsletter.
+
+"Citizen Science Beyond Outreach: Connecting Public Engagement, Open Science and AI"
+
+Presenter: Sami Vihriälä, Project manager at UU in, among others, the Communication and Outreach Unit
+
+Time & Venue: Friday 2026-11-13 16:15-17:00 @ Carolina Rediviva, Cafe 4.5
+
+  Summary: Citizen science has the potential to create value for researchers, participants, and society alike. During the past decade, Sami Vihriälä has managed and supported a range of citizen science initiatives at the Faculty of Science and Technology at Uppsala University, engaging schools and the wider public in authentic research projects. Most of these projects have followed a relatively traditional citizen science model, where participants contribute to scientific research through large-scale data collection. This approach has proven highly successful, generating valuable research data while creating meaningful opportunities for public engagement with science.   In this presentation, Sami will share practical experiences and lessons learned from several completed projects. He will discuss what has worked well, the challenges encountered, and the factors that contribute to successful collaborations between researchers and citizen scientists. The talk will also look ahead. As Open Science practices and AI tools increasingly shape the research landscape, new opportunities are emerging for citizen science. How can citizen science be integrated earlier in research planning and funding applications? How might public participation contribute to more open, transparent, and impactful research? And what role could AI play in supporting future citizen science initiatives?   The presentation will conclude with an open discussion on how universities can strengthen the connections between citizen science, Open Science, and AI, and how these approaches may help shape the future of research and public engagement. 
+
+After the event, we continue the discussion at the closest pub
+called William's at Åsgränd 5.
+
+Open Science events in Uppsala next months:
+
+- TBA
+
+Hope to see you at our events at Carolina Rediviva! Get in touch if you have ideas for future talks! As always, more info at the OSCU website at <https://bit.ly/osc_uppsala>.
+
+Cheers, the OSCU team
+
 ## 2026-10-04
 
 <oscu@freelists.org>

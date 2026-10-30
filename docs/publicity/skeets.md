@@ -1,5 +1,11 @@
 # Skeets
 
+## 2026-11-01
+
+```text
+OSCU's next talk: Friday November 13th 16:15-17:00 at Caroline Rediviva (Café 4.5) by Sami Vihriälä: 'Citizen Science Beyond Outreach: Connecting Public Engagement, Open Science and AI'
+```
+
 ## 2026-09-03
 
 ```text
