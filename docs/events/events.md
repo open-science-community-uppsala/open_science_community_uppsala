@@ -13,7 +13,7 @@ When (CEST)               | Where [`3`]             |What
 2026-12-11 16:15-17:00    |CR `[1]`, Café 4.5       |`[Empty slot]`
 2027-01-15 16:15-17:00    |CR `[2,4]`, Café 4.5     |`[Empty slot]`
 2027-02-12 16:15-17:00    |CR `[4]`, Café 4.5       |`[Empty slot]`
-2027-03-12 16:15-17:00    |CR `[4]`, Café 4.5       |`[Empty slot]`
+2027-03-12 16:15-17:00    |CR `[4]`, Café 4.5       |Moa Mårtsensson, her ideas/experience/reflection on https://aspredicted.org/
 2027-04-09 16:15-17:00    |CR `[4]`, Café 4.5       |`[Empty slot]`
 2027-05-14 16:15-17:00    |CR `[4]`, Café 4.5       |`[Empty slot]`
 2027-06-11 16:15-17:00    |CR `[4]`, Café 4.5       |No OSCU, due to summer holiday
